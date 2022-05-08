@@ -1,0 +1,32 @@
+{
+  "title": "How to Add Search bar functionality in Ghost Cms Help of SearchinGhost",
+  "date": "2021-10-11T10:41:36.000Z",
+  "author": "Rajdeep Singh",
+  "description": "",
+  "image": "",
+  "draft": true,
+  "summary": "How to Add Search bar functionality in Ghost Cms Help of SearchinGhost",
+  "tags": [
+    "Ghost CMS"
+  ],
+  "images": [
+    "images/next.js-add-css-code.jpg"
+  ],
+  "categories": [
+    "Ghost CMS"
+  ],
+  "body": {
+    "raw": "\n\n\n\nhttps://github.com/gmfmi/searchinGhost\n\n\n\n",
+    "html": "<p>https://github.com/gmfmi/searchinGhost</p>"
+  },
+  "_id": "how-to-add-search-bar-functionality-in-ghost-cms-help-of-searchinghost.md",
+  "_raw": {
+    "sourceFilePath": "how-to-add-search-bar-functionality-in-ghost-cms-help-of-searchinghost.md",
+    "sourceFileName": "how-to-add-search-bar-functionality-in-ghost-cms-help-of-searchinghost.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "how-to-add-search-bar-functionality-in-ghost-cms-help-of-searchinghost"
+  },
+  "type": "Post",
+  "slug": "how-to-add-search-bar-functionality-in-ghost-cms-help-of-searchinghost"
+}

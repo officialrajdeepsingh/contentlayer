@@ -1,0 +1,40 @@
+{
+  "title": "How to check the snap store package available for raspberry pi 4 or not?",
+  "date": "2022-03-26T07:50:39.000Z",
+  "author": "Rajdeep Singh",
+  "description": "You can easily check the raspberry pi binary in the snap store without the command line and code.",
+  "image": "images/the-snap-store.png",
+  "draft": false,
+  "summary": "You can easily check the raspberry pi binary in the snap store without the command line and code.",
+  "tags": [
+    "Raspberry pi 4",
+    "snapcraft",
+    "Snap store",
+    "Linux",
+    "Binary"
+  ],
+  "images": [
+    "images/the-snap-store.png"
+  ],
+  "categories": [
+    "Raspberry pi 4",
+    "snapcraft",
+    "Snap store",
+    "Linux",
+    "Binary"
+  ],
+  "body": {
+    "raw": "\n\nUbuntu built the snap store package Eco-system. The Snap store help to distribute your Linux base application and software across the Linux distro.\n\nFor checking the binary, you do not need any command. You need only two things. First is a web browser and a mouse.\n\nThere is two binary support by raspberry pi 4. first is **arm64** and **armhf**. If one of the binary is present, you can install the package in your raspberry pi 4 without any problem.\n\n\n\n**There is two way to check the package binary is available for raspberry pi 4 or not.**\n\n1. First way\n2. Second way\n\n\n\n> In this article, I use the snap chromium package for example purpose.\n\n\n## First way\n\nFirstly, you click on **the version drop-down list** and click again to **show the architecture** drop-down list and check all available binary forms for the list.\n\n* First step\n* Second step\n\n### First step\n\n![version drop-down list](http://localhost:3000/images/firstway.png)\n\n\n\n### Second step\n\n![show architecture drop-down list](http://localhost:3000/images/firstway-2.png)\n\n\n## Second way\n\nIn a second way, you scroll down the page, go to the Linux distribution section, and check all the Linux distributions.\n\n![Linux distribution section](http://localhost:3000/images/secondway.png)\n\n\n---\n\n### Reference\n\nhttps://snapcraft.io/chromium\n\nhttps://snapcraft.io/store\n\nhttps://snapcraft.io/docs\n\n---\n\n## Conclusion\n\nI hope my article solve your problem if you have any problem and then comment in the comment section.\n\n**For more updates, subscribe to our newsletter.**\n\n\n\n",
+    "html": "<p>Ubuntu built the snap store package Eco-system. The Snap store help to distribute your Linux base application and software across the Linux distro.</p>\n<p>For checking the binary, you do not need any command. You need only two things. First is a web browser and a mouse.</p>\n<p>There is two binary support by raspberry pi 4. first is <strong>arm64</strong> and <strong>armhf</strong>. If one of the binary is present, you can install the package in your raspberry pi 4 without any problem.</p>\n<p><strong>There is two way to check the package binary is available for raspberry pi 4 or not.</strong></p>\n<ol>\n<li>First way</li>\n<li>Second way</li>\n</ol>\n<blockquote>\n<p>In this article, I use the snap chromium package for example purpose.</p>\n</blockquote>\n<h2>First way</h2>\n<p>Firstly, you click on <strong>the version drop-down list</strong> and click again to <strong>show the architecture</strong> drop-down list and check all available binary forms for the list.</p>\n<ul>\n<li>First step</li>\n<li>Second step</li>\n</ul>\n<h3>First step</h3>\n<p><img src=\"http://localhost:3000/images/firstway.png\" alt=\"version drop-down list\"></p>\n<h3>Second step</h3>\n<p><img src=\"http://localhost:3000/images/firstway-2.png\" alt=\"show architecture drop-down list\"></p>\n<h2>Second way</h2>\n<p>In a second way, you scroll down the page, go to the Linux distribution section, and check all the Linux distributions.</p>\n<p><img src=\"http://localhost:3000/images/secondway.png\" alt=\"Linux distribution section\"></p>\n<hr>\n<h3>Reference</h3>\n<p>https://snapcraft.io/chromium</p>\n<p>https://snapcraft.io/store</p>\n<p>https://snapcraft.io/docs</p>\n<hr>\n<h2>Conclusion</h2>\n<p>I hope my article solve your problem if you have any problem and then comment in the comment section.</p>\n<p><strong>For more updates, subscribe to our newsletter.</strong></p>"
+  },
+  "_id": "how-to-check-the-snap-store-package-available-for-raspberry-pi-4-or-not.md",
+  "_raw": {
+    "sourceFilePath": "how-to-check-the-snap-store-package-available-for-raspberry-pi-4-or-not.md",
+    "sourceFileName": "how-to-check-the-snap-store-package-available-for-raspberry-pi-4-or-not.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "how-to-check-the-snap-store-package-available-for-raspberry-pi-4-or-not"
+  },
+  "type": "Post",
+  "slug": "how-to-check-the-snap-store-package-available-for-raspberry-pi-4-or-not"
+}

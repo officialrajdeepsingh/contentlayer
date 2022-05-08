@@ -1,0 +1,42 @@
+{
+  "title": "Text Highlighting In HTML 5?",
+  "date": "2020-12-28T14:09:38.000Z",
+  "author": "Rajdeep Singh",
+  "description": "Mark tag Help to High Lighting text in HTML 5",
+  "image": "images/Text-Highlighting-In-HTML-5.png",
+  "draft": false,
+  "summary": "Mark tag Help to High Lighting text in HTML 5 ",
+  "tags": [
+    "html",
+    "html 5",
+    "html tutorial",
+    "Text Highlighting",
+    "text highlighting in html",
+    "html for beginner"
+  ],
+  "images": [
+    "images/Text-Highlighting-In-HTML-5.png"
+  ],
+  "categories": [
+    "html",
+    "html 5",
+    "html tutorial",
+    "Text Highlighting",
+    "text highlighting in html",
+    "html for beginner"
+  ],
+  "body": {
+    "raw": "\n\n\nText Highlighting in HTML 5, You Highlight the Text in a Paragraph heading and use it inside another tag. Add some Color Help Of CSS. So You can Use `<mark> ` tag In `<p>` tag very easily.\n\n**Syntax:**\n\n```html\n<mark> </mark>\n\n```\n\nMark tag by default CSS By Chrome Browser.\n\n```css\nmark {\n    background-color: yellow;\n    color: black;\n}\n```\n\n\n\n**Example:**\n\n```html\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Document</title>\n    <style>\n        mark{\n            color:white;\n            background-color: black;\n            padding: 0px 3px;\n        }\n    </style>\n</head>\n<body>\n       <p> we are write  article that contains the <mark> Mark tag </mark> for Highlighting the text. you will make it easier to see it.</p>    \n</body>\n</html>\n```\n\n---\n\n# Contact me\n\n* [https://www.facebook.com/officialrajdeepsingh/](https://www.facebook.com/officialrajdeepsingh/)\n* [https://medium.com/officialrajdeepsingh](https://medium.com/officialrajdeepsingh)\n* [officialrajdeepsingh@gmail.com](mailto:officialrajdeepsingh@gmail.com)\n\n\n\n---\n\n\n\n",
+    "html": "<p>Text Highlighting in HTML 5, You Highlight the Text in a Paragraph heading and use it inside another tag. Add some Color Help Of CSS. So You can Use <code>&#x3C;mark> </code> tag In <code>&#x3C;p></code> tag very easily.</p>\n<p><strong>Syntax:</strong></p>\n<pre><code class=\"language-html\">&#x3C;mark> &#x3C;/mark>\n\n</code></pre>\n<p>Mark tag by default CSS By Chrome Browser.</p>\n<pre><code class=\"language-css\">mark {\n    background-color: yellow;\n    color: black;\n}\n</code></pre>\n<p><strong>Example:</strong></p>\n<pre><code class=\"language-html\">&#x3C;!DOCTYPE html>\n&#x3C;html lang=\"en\">\n&#x3C;head>\n    &#x3C;meta charset=\"UTF-8\">\n    &#x3C;meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    &#x3C;title>Document&#x3C;/title>\n    &#x3C;style>\n        mark{\n            color:white;\n            background-color: black;\n            padding: 0px 3px;\n        }\n    &#x3C;/style>\n&#x3C;/head>\n&#x3C;body>\n       &#x3C;p> we are write  article that contains the &#x3C;mark> Mark tag &#x3C;/mark> for Highlighting the text. you will make it easier to see it.&#x3C;/p>    \n&#x3C;/body>\n&#x3C;/html>\n</code></pre>\n<hr>\n<h1>Contact me</h1>\n<ul>\n<li><a href=\"https://www.facebook.com/officialrajdeepsingh/\">https://www.facebook.com/officialrajdeepsingh/</a></li>\n<li><a href=\"https://medium.com/officialrajdeepsingh\">https://medium.com/officialrajdeepsingh</a></li>\n<li><a href=\"mailto:officialrajdeepsingh@gmail.com\">officialrajdeepsingh@gmail.com</a></li>\n</ul>\n<hr>"
+  },
+  "_id": "text-highlighting-in-html-5.md",
+  "_raw": {
+    "sourceFilePath": "text-highlighting-in-html-5.md",
+    "sourceFileName": "text-highlighting-in-html-5.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "text-highlighting-in-html-5"
+  },
+  "type": "Post",
+  "slug": "text-highlighting-in-html-5"
+}

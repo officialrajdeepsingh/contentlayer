@@ -1,0 +1,42 @@
+{
+  "title": "How To Add CSS In Next js?",
+  "date": "2020-11-10T11:42:46.000Z",
+  "author": "Rajdeep Singh",
+  "description": "Easy Ways Add CSS in Next.js #SeriesPart2",
+  "image": "images/next.js-add-css-code.jpg",
+  "draft": false,
+  "summary": "Easy Ways Add CSS in Next.js #SeriesPart2 \n",
+  "tags": [
+    "Next.js",
+    "Next",
+    "Next.js Framework",
+    "Next.js Tutorial",
+    "React.js",
+    "react.js tutorial"
+  ],
+  "images": [
+    "images/next.js-add-css-code.jpg"
+  ],
+  "categories": [
+    "Next.js",
+    "Next",
+    "Next.js Framework",
+    "Next.js Tutorial",
+    "React.js",
+    "react.js tutorial"
+  ],
+  "body": {
+    "raw": "\nIn this Next Series, we Learn How to add CSS's own Project with Easy Steps.\n\nGood News is that Next.js provides custom CSS functionality. You Use The next.js plugin inside your project and use it.\n\n## What's Next.js?\n\nMake sure Read Basic Introduction About Next.js #SeriesStart 💕\n\n[https://officialrajdeepsingh.dev/what-is-next.js/](https://officialrajdeepsingh.dev/what-is-next.js/ \"https://officialrajdeepsingh.dev/what-is-next.js/\")\n\n***\n\n## New Update:\n\nNext.js Version 9.3 **Support CSS Global Stylesheets.** Now you add CSS directly Import `.css` files as global stylesheets.\n\n```javascript\nimport './style.css'\n```\n\n***\n\n**Go To Github Download or Use Npm:**\n\n```cmd\nnpm install --save @zeit/next-css\nor\nyarn add @zeit/next-css\n```\n\n***\n\nCreate an `next.config.js` At the root of your project\n\n## Default:\n\ndefault config use for import CSS Global stylesheet in custom _app.js\n\n```javascript\nconst withCSS = require('@zeit/next-css')\nmodule.exports = withCSS({})\n```\n\n## Custom:\n\nCustom config used for import CSS in other Components like header, footer like so.\n\n```javascript\nconst withCSS = require('@zeit/next-css')\nmodule.exports = withCSS({\ncssModules: true  // After true than use import statement in next.js\n})\n```\n\n***\n\n## How To add Global CSS:\n\nWhen you create your app, help with npm. in the next step, you create a global app. If you npm official command the by default app create in your project and import your Global CSS file in next.js custom _app.js\n\n```javascript\nimport '../styles.css'\nor\nimport '../styles.scss'\n// This default export is required in a new `pages/_app.js` file.\nexport default function MyApp({ Component, pageProps }) {\n  return <Component {...pageProps} />\n}\n```\n\n***\n\n# Demo:\n\n<iframe width=\"924\" height=\"500\" src=\"https://codesandbox.io/embed/add-css-innextjs-8pdds?from-embed\" style=\"border:0; border-radius: 4px; overflow:hidden;\" sandbox=\"allow-modals allow-forms allow-popups allow-scripts allow-same-origin\"></iframe>\n\n***\n\n## Reference:\n\nhttps://nextjs.org/docs/basic-features/built-in-css-support\n\nhttps://nextjs.org/blog/next-9-2\n\nhttps://nextjs.org/blog/next-10\n\n***\n\n# Contact me\n\n* [https://www.facebook.com/officialrajdeepsingh/](https://www.facebook.com/officialrajdeepsingh/)\n* [https://www.facebook.com/groups/JavaScriptcode/](https://www.facebook.com/groups/JavaScriptcode/)\n* [https://www.facebook.com/groups/pythoncodejoin/](https://www.facebook.com/groups/pythoncodejoin/)\n* [officialrajdeepsingh@gmail.com](mailto:officialrajdeepsingh@gmail.com)",
+    "html": "<p>In this Next Series, we Learn How to add CSS's own Project with Easy Steps.</p>\n<p>Good News is that Next.js provides custom CSS functionality. You Use The next.js plugin inside your project and use it.</p>\n<h2>What's Next.js?</h2>\n<p>Make sure Read Basic Introduction About Next.js #SeriesStart 💕</p>\n<p><a href=\"https://officialrajdeepsingh.dev/what-is-next.js/\" title=\"https://officialrajdeepsingh.dev/what-is-next.js/\">https://officialrajdeepsingh.dev/what-is-next.js/</a></p>\n<hr>\n<h2>New Update:</h2>\n<p>Next.js Version 9.3 <strong>Support CSS Global Stylesheets.</strong> Now you add CSS directly Import <code>.css</code> files as global stylesheets.</p>\n<pre><code class=\"language-javascript\">import './style.css'\n</code></pre>\n<hr>\n<p><strong>Go To Github Download or Use Npm:</strong></p>\n<pre><code class=\"language-cmd\">npm install --save @zeit/next-css\nor\nyarn add @zeit/next-css\n</code></pre>\n<hr>\n<p>Create an <code>next.config.js</code> At the root of your project</p>\n<h2>Default:</h2>\n<p>default config use for import CSS Global stylesheet in custom _app.js</p>\n<pre><code class=\"language-javascript\">const withCSS = require('@zeit/next-css')\nmodule.exports = withCSS({})\n</code></pre>\n<h2>Custom:</h2>\n<p>Custom config used for import CSS in other Components like header, footer like so.</p>\n<pre><code class=\"language-javascript\">const withCSS = require('@zeit/next-css')\nmodule.exports = withCSS({\ncssModules: true  // After true than use import statement in next.js\n})\n</code></pre>\n<hr>\n<h2>How To add Global CSS:</h2>\n<p>When you create your app, help with npm. in the next step, you create a global app. If you npm official command the by default app create in your project and import your Global CSS file in next.js custom _app.js</p>\n<pre><code class=\"language-javascript\">import '../styles.css'\nor\nimport '../styles.scss'\n// This default export is required in a new `pages/_app.js` file.\nexport default function MyApp({ Component, pageProps }) {\n  return &#x3C;Component {...pageProps} />\n}\n</code></pre>\n<hr>\n<h1>Demo:</h1>\n<hr>\n<h2>Reference:</h2>\n<p>https://nextjs.org/docs/basic-features/built-in-css-support</p>\n<p>https://nextjs.org/blog/next-9-2</p>\n<p>https://nextjs.org/blog/next-10</p>\n<hr>\n<h1>Contact me</h1>\n<ul>\n<li><a href=\"https://www.facebook.com/officialrajdeepsingh/\">https://www.facebook.com/officialrajdeepsingh/</a></li>\n<li><a href=\"https://www.facebook.com/groups/JavaScriptcode/\">https://www.facebook.com/groups/JavaScriptcode/</a></li>\n<li><a href=\"https://www.facebook.com/groups/pythoncodejoin/\">https://www.facebook.com/groups/pythoncodejoin/</a></li>\n<li><a href=\"mailto:officialrajdeepsingh@gmail.com\">officialrajdeepsingh@gmail.com</a></li>\n</ul>"
+  },
+  "_id": "how-to-add-css-in-next-js.md",
+  "_raw": {
+    "sourceFilePath": "how-to-add-css-in-next-js.md",
+    "sourceFileName": "how-to-add-css-in-next-js.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "how-to-add-css-in-next-js"
+  },
+  "type": "Post",
+  "slug": "how-to-add-css-in-next-js"
+}

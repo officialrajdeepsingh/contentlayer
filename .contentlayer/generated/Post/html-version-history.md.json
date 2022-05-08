@@ -1,0 +1,40 @@
+{
+  "title": "HTML Version History?",
+  "date": "2020-12-24T11:13:05.000Z",
+  "author": "Rajdeep Singh",
+  "description": "HTML History Very Complicated. But I Try To Explain Very Easy Way.",
+  "image": "images/HTML-Version-History.jpg",
+  "draft": false,
+  "summary": "HTML History Very Complicated. But I Try To Explain Very Easy Way.",
+  "tags": [
+    "html",
+    "html 5",
+    "HTML History",
+    "Html Version",
+    "Who Create Html"
+  ],
+  "images": [
+    "images/HTML-Version-History.jpg"
+  ],
+  "categories": [
+    "html",
+    "html 5",
+    "HTML History",
+    "Html Version",
+    "Who Create Html"
+  ],
+  "body": {
+    "raw": "\n\n\nAccording to Wikipedia, HTML was Created By _**Tim Berners-Lee** in **1991**._ Launch official standard HTML Version in December 1999.\n\nIn 1989, Berners-Lee also created an Internet-based hypertext system._HTML Comes in many versions. But_ HTML 4.01 Widely Use HTML.\n\n### History:\n\n* **HTML 2 : November 24, 1995,**\n* **HTML 3 : January 14, 1997,**\n* **HTML 4 : December 18, 1997,**\n* **HTML 5 : October 28, 2014,**\n\n\n\n### HTML 1:\n\nThe original version of HTML 1.0 Announcing with few greatly limited features. Use HTML 1, and You Never be a creation of a Good Looking website.\n\n### HTML 2:\n\nHTML 2.0 then arrived and included all the HTML 1.0 plus several new features for web page design. Now Use HTML 2.0 You Design A Website.\n\n### HTML 3:\n\nHTML 2.0 served its purpose very well, but many Programmers or designing web pages wanted more control over their web pages and more ways to mark up their text and enhance Website appearance And Look On Browser.\n\n### HTML 4:\n\nIn the early days, **_HTML 4.0_** was code-named **_COUGAR_**. This version introduces new functionality, most of which comes from the expired HTML 3.0 draft.  W3C  Recommendation Explorer has done a Good job in implementing the many New features Into HTML 4.0. After 4.0, One More HTML Version Come People Know as XHTML. Which More Popular.\n\n### HTML 5:\n\nHTML 5 Now A standard version and secondly More Popular On Earth. HTML 5 Give Lots Of Tags Help To Browser Understand Text Format and Secondly Build Unique beautiful Website Design.\n\n---\n\n### Reference:\n\n\n\nhttp://www.codefreetutorial.com/learn-html/76-different-versions-of-html\n\n---\n\n\n\n# Contact me\n\n* [https://www.facebook.com/officialrajdeepsingh/](https://www.facebook.com/officialrajdeepsingh/)\n* [https://medium.com/officialrajdeepsingh](https://medium.com/officialrajdeepsingh)\n* [officialrajdeepsingh@gmail.com](mailto:officialrajdeepsingh@gmail.com)\n\n\n\n",
+    "html": "<p>According to Wikipedia, HTML was Created By <em><strong>Tim Berners-Lee</strong> in <strong>1991</strong>.</em> Launch official standard HTML Version in December 1999.</p>\n<p>In 1989, Berners-Lee also created an Internet-based hypertext system.<em>HTML Comes in many versions. But</em> HTML 4.01 Widely Use HTML.</p>\n<h3>History:</h3>\n<ul>\n<li><strong>HTML 2 : November 24, 1995,</strong></li>\n<li><strong>HTML 3 : January 14, 1997,</strong></li>\n<li><strong>HTML 4 : December 18, 1997,</strong></li>\n<li><strong>HTML 5 : October 28, 2014,</strong></li>\n</ul>\n<h3>HTML 1:</h3>\n<p>The original version of HTML 1.0 Announcing with few greatly limited features. Use HTML 1, and You Never be a creation of a Good Looking website.</p>\n<h3>HTML 2:</h3>\n<p>HTML 2.0 then arrived and included all the HTML 1.0 plus several new features for web page design. Now Use HTML 2.0 You Design A Website.</p>\n<h3>HTML 3:</h3>\n<p>HTML 2.0 served its purpose very well, but many Programmers or designing web pages wanted more control over their web pages and more ways to mark up their text and enhance Website appearance And Look On Browser.</p>\n<h3>HTML 4:</h3>\n<p>In the early days, <strong><em>HTML 4.0</em></strong> was code-named <strong><em>COUGAR</em></strong>. This version introduces new functionality, most of which comes from the expired HTML 3.0 draft.  W3C  Recommendation Explorer has done a Good job in implementing the many New features Into HTML 4.0. After 4.0, One More HTML Version Come People Know as XHTML. Which More Popular.</p>\n<h3>HTML 5:</h3>\n<p>HTML 5 Now A standard version and secondly More Popular On Earth. HTML 5 Give Lots Of Tags Help To Browser Understand Text Format and Secondly Build Unique beautiful Website Design.</p>\n<hr>\n<h3>Reference:</h3>\n<p>http://www.codefreetutorial.com/learn-html/76-different-versions-of-html</p>\n<hr>\n<h1>Contact me</h1>\n<ul>\n<li><a href=\"https://www.facebook.com/officialrajdeepsingh/\">https://www.facebook.com/officialrajdeepsingh/</a></li>\n<li><a href=\"https://medium.com/officialrajdeepsingh\">https://medium.com/officialrajdeepsingh</a></li>\n<li><a href=\"mailto:officialrajdeepsingh@gmail.com\">officialrajdeepsingh@gmail.com</a></li>\n</ul>"
+  },
+  "_id": "html-version-history.md",
+  "_raw": {
+    "sourceFilePath": "html-version-history.md",
+    "sourceFileName": "html-version-history.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "html-version-history"
+  },
+  "type": "Post",
+  "slug": "html-version-history"
+}

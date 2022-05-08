@@ -1,0 +1,42 @@
+{
+  "title": "Title tag In HTML 5?",
+  "date": "2020-12-25T10:09:58.000Z",
+  "author": "Rajdeep Singh",
+  "description": "Title tag display page information in the browser toolbar.",
+  "image": "images/Title-tag-In-HTML-5.jpg",
+  "draft": false,
+  "summary": "Title tag display page information in the browser toolbar.",
+  "tags": [
+    "html",
+    "html 5",
+    "html for beginner",
+    "html tutorial",
+    "title tag",
+    "html title tag"
+  ],
+  "images": [
+    "images/Title-tag-In-HTML-5.jpg"
+  ],
+  "categories": [
+    "html",
+    "html 5",
+    "html for beginner",
+    "html tutorial",
+    "title tag",
+    "html title tag"
+  ],
+  "body": {
+    "raw": "\n\n\nTitle tag Use Display Page Information In Web browser On Top. The title is also Use In the Body tag.Title tag Provided a title for the Page When You Added to Favorites in The Browser. Title Tag also Displays title Information for the Page in Search Engine Results\n\n**Syntax:**\n\n```html\n<title> Heading With Title Tag </title>\n```\n\n\n\nYou Use Title Tag Inside Body By Default Title tag Display None inside Browser.\n\n```css\ntitle {\n  display: none;\n}\n```\n\n\n\nIf you use the title tag shown in the browser, add CSS To Display Title In Browser.\n\n```html\n<title  style=\"display: block\" > Heading With Title Tag </title>\n```\n\n---\n\n### Example:\n\n```html\n\n<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<title> Index Page Information </title>\n\t</head>\n\t<body>\n\t\n\t\t<title  style=\"display: block\" > Heading With Title Tag </title>\n\n\t</body>\n</html>\n\n```\n\n---\n\n# Contact me\n\n* [https://www.facebook.com/officialrajdeepsingh/](https://www.facebook.com/officialrajdeepsingh/)\n* [https://medium.com/officialrajdeepsingh](https://medium.com/officialrajdeepsingh)\n* [officialrajdeepsingh@gmail.com](mailto:officialrajdeepsingh@gmail.com)\n\n\n\n",
+    "html": "<p>Title tag Use Display Page Information In Web browser On Top. The title is also Use In the Body tag.Title tag Provided a title for the Page When You Added to Favorites in The Browser. Title Tag also Displays title Information for the Page in Search Engine Results</p>\n<p><strong>Syntax:</strong></p>\n<pre><code class=\"language-html\">&#x3C;title> Heading With Title Tag &#x3C;/title>\n</code></pre>\n<p>You Use Title Tag Inside Body By Default Title tag Display None inside Browser.</p>\n<pre><code class=\"language-css\">title {\n  display: none;\n}\n</code></pre>\n<p>If you use the title tag shown in the browser, add CSS To Display Title In Browser.</p>\n<pre><code class=\"language-html\">&#x3C;title  style=\"display: block\" > Heading With Title Tag &#x3C;/title>\n</code></pre>\n<hr>\n<h3>Example:</h3>\n<pre><code class=\"language-html\">\n&#x3C;!DOCTYPE html>\n&#x3C;html>\n\t&#x3C;head>\n\t\t&#x3C;title> Index Page Information &#x3C;/title>\n\t&#x3C;/head>\n\t&#x3C;body>\n\t\n\t\t&#x3C;title  style=\"display: block\" > Heading With Title Tag &#x3C;/title>\n\n\t&#x3C;/body>\n&#x3C;/html>\n\n</code></pre>\n<hr>\n<h1>Contact me</h1>\n<ul>\n<li><a href=\"https://www.facebook.com/officialrajdeepsingh/\">https://www.facebook.com/officialrajdeepsingh/</a></li>\n<li><a href=\"https://medium.com/officialrajdeepsingh\">https://medium.com/officialrajdeepsingh</a></li>\n<li><a href=\"mailto:officialrajdeepsingh@gmail.com\">officialrajdeepsingh@gmail.com</a></li>\n</ul>"
+  },
+  "_id": "title-tag-in-html-5.md",
+  "_raw": {
+    "sourceFilePath": "title-tag-in-html-5.md",
+    "sourceFileName": "title-tag-in-html-5.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "title-tag-in-html-5"
+  },
+  "type": "Post",
+  "slug": "title-tag-in-html-5"
+}

@@ -1,0 +1,38 @@
+{
+  "title": "All Keyboard Shortcuts For Linux Terminal?",
+  "date": "2021-01-08T08:05:57.000Z",
+  "author": "Rajdeep Singh",
+  "description": "Linux Keyboard Help To Enhance Your Working Speed Inside Command Tool",
+  "image": "images/Linux-Basic-Introduction--1-.png",
+  "draft": false,
+  "summary": "Linux Keyboard Help To Enhance Your Working Speed Inside Command Tool",
+  "tags": [
+    "Linux",
+    "Keyboard Shortcut",
+    "Shortcut keys",
+    "Linux Terminal"
+  ],
+  "images": [
+    "images/Linux-Basic-Introduction--1-.png"
+  ],
+  "categories": [
+    "Linux",
+    "Keyboard Shortcut",
+    "Shortcut keys",
+    "Linux Terminal"
+  ],
+  "body": {
+    "raw": "\n\n\n## Ctrl + Alt + T :\n\nUse This Shortcut Key to Open Linux Terminal Inside  Your Laptop || Pc || Machine.\n\n### All Shoctkeys In Linux Terminal:\n\n* **Ctrl + L**: Clears the screen, similar to the clear command in the terminal.\n* **Ctrl + S:** Stop all output to the screen. When You run Commands with longs output. But  You don't stop it.\n* **Tab**: tab Help Automatic Fill Your Name.\n* **Ctrl + A**: Cursor goes to Start Of Word\n* **Ctrl + E**: Cursor goes to End Of Word.\n* **Ctrl + F**: Move the cursor forward one by one character.\n* **Ctrl + B**: Move the Cursor backward one by one Character.\n* **Alt + F**: Move the cursor forward one by one Word.\n* **Alt + B**: Move the Cursor backward one by one Word.\n* **Alt + U**: Change Character or Word Into Uppercase.\n* **Alt + l**: Change  Character Or Word Into Lower Case.\n* **Alt  + T**: Swap the last two words before the cursor.\n* **Alt + C**: Use Capitalize  Words.\n* **Alt + D**: Delete to end of word starting at the cursor\n* **Ctrl + K**: Cut Word/Line from the current position to the end of the line. Also, adding it to the clipboard, use ctrl + y to paste it again.\n* **Ctrl + W**: Delete the word before the Cursor Position. Also, adding it to the clipboard, use ctrl + y paste on it.\n* **Ctrl + Y**: Paste the last thing from the clipboard that you cut recently.\n* **Ctrl + D**: Delete Character By Character.\n* **Ctrl + T**: Remove White Space.\n* **Ctrl + Shift + W**: close terminal tab.\n* **Ctrl + Shift + Q**: close the entire terminal.\n* **Shift+Ctrl + N**: Open New Window.\n* **Shift + Ctrl +T**: Open New Tab In Window.\n* **Shift + Ctrl + W**: Close Tab.\n* **Shift + Ctrl + Q**: Close Window.\n* **Shift + Ctrl + C**: Use For Copy Text Inside Terminal.\n* **Shift + Ctrl +  V**: Paste Text Inside Terminal.\n* **Shift + Ctrl + +**: Zoom In.\n* **Shift + Ctrl + -**: Zoom Out\n* **Shift + Ctrl + )**: Zoom Reset\n* **Shift + Ctrl + I**: Add Name Off Each Open Tab.\n\n### Note:\n\nIf i  Forget Some Keyboard Shortcuts, and You Do Not find them on this page so Tell me in the comment box.\n\n---\n\n# Contact me\n\n* [https://www.facebook.com/officialrajdeepsingh/](https://www.facebook.com/officialrajdeepsingh/)\n* [https://medium.com/officialrajdeepsingh](https://medium.com/officialrajdeepsingh)\n* [officialrajdeepsingh@gmail.com](mailto:officialrajdeepsingh@gmail.com)\n\n\n\n---\n\n\n\n",
+    "html": "<h2>Ctrl + Alt + T :</h2>\n<p>Use This Shortcut Key to Open Linux Terminal Inside  Your Laptop || Pc || Machine.</p>\n<h3>All Shoctkeys In Linux Terminal:</h3>\n<ul>\n<li><strong>Ctrl + L</strong>: Clears the screen, similar to the clear command in the terminal.</li>\n<li><strong>Ctrl + S:</strong> Stop all output to the screen. When You run Commands with longs output. But  You don't stop it.</li>\n<li><strong>Tab</strong>: tab Help Automatic Fill Your Name.</li>\n<li><strong>Ctrl + A</strong>: Cursor goes to Start Of Word</li>\n<li><strong>Ctrl + E</strong>: Cursor goes to End Of Word.</li>\n<li><strong>Ctrl + F</strong>: Move the cursor forward one by one character.</li>\n<li><strong>Ctrl + B</strong>: Move the Cursor backward one by one Character.</li>\n<li><strong>Alt + F</strong>: Move the cursor forward one by one Word.</li>\n<li><strong>Alt + B</strong>: Move the Cursor backward one by one Word.</li>\n<li><strong>Alt + U</strong>: Change Character or Word Into Uppercase.</li>\n<li><strong>Alt + l</strong>: Change  Character Or Word Into Lower Case.</li>\n<li><strong>Alt  + T</strong>: Swap the last two words before the cursor.</li>\n<li><strong>Alt + C</strong>: Use Capitalize  Words.</li>\n<li><strong>Alt + D</strong>: Delete to end of word starting at the cursor</li>\n<li><strong>Ctrl + K</strong>: Cut Word/Line from the current position to the end of the line. Also, adding it to the clipboard, use ctrl + y to paste it again.</li>\n<li><strong>Ctrl + W</strong>: Delete the word before the Cursor Position. Also, adding it to the clipboard, use ctrl + y paste on it.</li>\n<li><strong>Ctrl + Y</strong>: Paste the last thing from the clipboard that you cut recently.</li>\n<li><strong>Ctrl + D</strong>: Delete Character By Character.</li>\n<li><strong>Ctrl + T</strong>: Remove White Space.</li>\n<li><strong>Ctrl + Shift + W</strong>: close terminal tab.</li>\n<li><strong>Ctrl + Shift + Q</strong>: close the entire terminal.</li>\n<li><strong>Shift+Ctrl + N</strong>: Open New Window.</li>\n<li><strong>Shift + Ctrl +T</strong>: Open New Tab In Window.</li>\n<li><strong>Shift + Ctrl + W</strong>: Close Tab.</li>\n<li><strong>Shift + Ctrl + Q</strong>: Close Window.</li>\n<li><strong>Shift + Ctrl + C</strong>: Use For Copy Text Inside Terminal.</li>\n<li><strong>Shift + Ctrl +  V</strong>: Paste Text Inside Terminal.</li>\n<li><strong>Shift + Ctrl + +</strong>: Zoom In.</li>\n<li><strong>Shift + Ctrl + -</strong>: Zoom Out</li>\n<li><strong>Shift + Ctrl + )</strong>: Zoom Reset</li>\n<li><strong>Shift + Ctrl + I</strong>: Add Name Off Each Open Tab.</li>\n</ul>\n<h3>Note:</h3>\n<p>If i  Forget Some Keyboard Shortcuts, and You Do Not find them on this page so Tell me in the comment box.</p>\n<hr>\n<h1>Contact me</h1>\n<ul>\n<li><a href=\"https://www.facebook.com/officialrajdeepsingh/\">https://www.facebook.com/officialrajdeepsingh/</a></li>\n<li><a href=\"https://medium.com/officialrajdeepsingh\">https://medium.com/officialrajdeepsingh</a></li>\n<li><a href=\"mailto:officialrajdeepsingh@gmail.com\">officialrajdeepsingh@gmail.com</a></li>\n</ul>\n<hr>"
+  },
+  "_id": "keyboard-shortcut-keys-for-linux-terminal.md",
+  "_raw": {
+    "sourceFilePath": "keyboard-shortcut-keys-for-linux-terminal.md",
+    "sourceFileName": "keyboard-shortcut-keys-for-linux-terminal.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "keyboard-shortcut-keys-for-linux-terminal"
+  },
+  "type": "Post",
+  "slug": "keyboard-shortcut-keys-for-linux-terminal"
+}

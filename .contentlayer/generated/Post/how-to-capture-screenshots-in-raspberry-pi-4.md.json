@@ -1,0 +1,42 @@
+{
+  "title": "How to capture screenshots in Raspberry PI 4",
+  "date": "2021-01-24T12:26:07.000Z",
+  "author": "Rajdeep Singh",
+  "description": "Raspi does not provide screenshots functionality by default. you use software and tool to take a screenshot in raspi.",
+  "image": "images/How-to-capture-screenshots-in-Raspberry-PI-4.png",
+  "draft": false,
+  "summary": "Raspi does not provide screenshots functionality by default. you use software and tool to take a screenshot in raspi.",
+  "tags": [
+    "Raspberry",
+    "Raspi 4",
+    "screensshots",
+    "capture screen shots",
+    "Gnome Screenshot",
+    "install gnome screenshot"
+  ],
+  "images": [
+    "images/How-to-capture-screenshots-in-Raspberry-PI-4.png"
+  ],
+  "categories": [
+    "Raspberry",
+    "Raspi 4",
+    "screensshots",
+    "capture screen shots",
+    "Gnome Screenshot",
+    "install gnome screenshot"
+  ],
+  "body": {
+    "raw": "\n\n\nIn Raspberry pi 4, you take the screenshot help of two software. The first is scort, and the second is Gnome Screenshot.\n\nI'm personally recommended you use Gnome Screenshot. Gnome Screenshot provides a graphical interface. You use a graphical interface to take screenshots very easily.\n\nOther hands scort is a command-line tool, and scort does not provide any graphical interface.So I'm personally again recommended you use Gnome Screenshot.\n\n### Install Gnome Screenshot in Raspbian or Raspberry pi 4:\n\n**let start it:**\n\nThe Raspi 4 does not provide by default Gnome Screenshot.\n\nFirstly Update your raspberry pi 4. this is a compulsory step for installing Gnome Screenshot.\n\n```cmd\nsudo apt update && sudo apt upgrade\n```\n\nYour update and upgrade command run successfully. Now you install Gnome Screenshot following command.\n\n```cmd\nsudo apt install gnome-screenshot\n```\n\nNow you can find Gnome Screenshot in your accessories menu, listed as \"Screenshot.\"\n\n![sceenshot](http://localhost:3000/images/geenome.png)\n\n\nGnome interface is very easy to understand. You use Gnome to get a Screenshot, add your own image name, and after save it. By default, all pic save inside your Picture folder.\n\n![interface look like](http://localhost:3000/images/gnome-screenshots.png)\n\n\n---\n\n### Uninstall Gnome Screenshot:\n\nIn some cases, you may uninstall the Gnome Screenshot. so follow this command\n\n```cmd\nsudo apt-get remove --purge gnome-screenshot\n```\n\n---\n\n# Contact me\n\n* [https://www.facebook.com/officialrajdeepsingh/](https://www.facebook.com/officialrajdeepsingh/)\n* [https://medium.com/officialrajdeepsingh](https://medium.com/officialrajdeepsingh)\n* [officialrajdeepsingh@gmail.com](mailto:officialrajdeepsingh@gmail.com)\n\n\n\n",
+    "html": "<p>In Raspberry pi 4, you take the screenshot help of two software. The first is scort, and the second is Gnome Screenshot.</p>\n<p>I'm personally recommended you use Gnome Screenshot. Gnome Screenshot provides a graphical interface. You use a graphical interface to take screenshots very easily.</p>\n<p>Other hands scort is a command-line tool, and scort does not provide any graphical interface.So I'm personally again recommended you use Gnome Screenshot.</p>\n<h3>Install Gnome Screenshot in Raspbian or Raspberry pi 4:</h3>\n<p><strong>let start it:</strong></p>\n<p>The Raspi 4 does not provide by default Gnome Screenshot.</p>\n<p>Firstly Update your raspberry pi 4. this is a compulsory step for installing Gnome Screenshot.</p>\n<pre><code class=\"language-cmd\">sudo apt update &#x26;&#x26; sudo apt upgrade\n</code></pre>\n<p>Your update and upgrade command run successfully. Now you install Gnome Screenshot following command.</p>\n<pre><code class=\"language-cmd\">sudo apt install gnome-screenshot\n</code></pre>\n<p>Now you can find Gnome Screenshot in your accessories menu, listed as \"Screenshot.\"</p>\n<p><img src=\"http://localhost:3000/images/geenome.png\" alt=\"sceenshot\"></p>\n<p>Gnome interface is very easy to understand. You use Gnome to get a Screenshot, add your own image name, and after save it. By default, all pic save inside your Picture folder.</p>\n<p><img src=\"http://localhost:3000/images/gnome-screenshots.png\" alt=\"interface look like\"></p>\n<hr>\n<h3>Uninstall Gnome Screenshot:</h3>\n<p>In some cases, you may uninstall the Gnome Screenshot. so follow this command</p>\n<pre><code class=\"language-cmd\">sudo apt-get remove --purge gnome-screenshot\n</code></pre>\n<hr>\n<h1>Contact me</h1>\n<ul>\n<li><a href=\"https://www.facebook.com/officialrajdeepsingh/\">https://www.facebook.com/officialrajdeepsingh/</a></li>\n<li><a href=\"https://medium.com/officialrajdeepsingh\">https://medium.com/officialrajdeepsingh</a></li>\n<li><a href=\"mailto:officialrajdeepsingh@gmail.com\">officialrajdeepsingh@gmail.com</a></li>\n</ul>"
+  },
+  "_id": "how-to-capture-screenshots-in-raspberry-pi-4.md",
+  "_raw": {
+    "sourceFilePath": "how-to-capture-screenshots-in-raspberry-pi-4.md",
+    "sourceFileName": "how-to-capture-screenshots-in-raspberry-pi-4.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "how-to-capture-screenshots-in-raspberry-pi-4"
+  },
+  "type": "Post",
+  "slug": "how-to-capture-screenshots-in-raspberry-pi-4"
+}
