@@ -6,7 +6,7 @@ export default function Header() {
             <div className="container">
                 <Link href="/">
                     <a className='navbar-brand'>
-                        Markdown + Nextjs
+                     Contentlayer + Nextjs
                     </a>
                 </Link>
 
@@ -14,12 +14,12 @@ export default function Header() {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                         <Link href="/">
-                            <a className='nav-link'>
+                            <a  className='nav-link'>
                                 <li className="nav-item"> Home </li>
                             </a>
                         </Link>
-                        <Link href="/">
-                            <a className='nav-link'>
+                        <Link href="https://officialrajdeepsingh.dev">
+                            <a target="_blank" className='nav-link'>
                                 <li className="nav-item">About </li>
                             </a>
                         </Link>

@@ -1,8 +1,8 @@
 import Link from 'next/link'
 import { slugify, ImageUrl } from '../../utils'
 import { NextSeo } from 'next-seo';
+
 import { allPosts } from "contentlayer/generated";
-import { pick } from "@contentlayer/client";
 
 export default function PostPage({ post }) {
   const date = new Date(post.date)
@@ -80,15 +80,14 @@ export default function PostPage({ post }) {
 
 export async function getStaticPaths() {
 
-  
-  
+  //  filter the post and get the publish post.
   const posts= allPosts.filter(
     (post, i) =>{
       return post.draft===false
     }
     )
 
-
+  // get all the post slug
   const publish = posts.map((post) => ({ params: { slug: post.slug } }))
 
 
@@ -96,14 +95,12 @@ export async function getStaticPaths() {
       paths: publish,
       fallback: false,
     }
-  
-
 }
 
 export async function getStaticProps({ params: { slug } }) {
 
   
-  // Statically fetch post by slug
+  // fetch a single post by slug
 
   const post = allPosts.find((post) => {
     
@@ -111,10 +108,6 @@ export async function getStaticProps({ params: { slug } }) {
   
   })
 
-
-
-
   return { props: { post } }
-
 
 }

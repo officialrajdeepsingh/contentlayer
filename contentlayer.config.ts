@@ -1,12 +1,6 @@
-// const { defineDocumentType, makeSource } = require ('contentlayer/source-files')
 import { defineDocumentType, makeSource, defineNestedType} from "contentlayer/source-files";
 
-const computedFields = {
-  slug: {
-    type: "string",
-    resolve: (doc) => doc._raw.sourceFileName.replace(/\.md/, ""),
-  },
-};
+
 
 const Tag = defineNestedType(() => ({
   name: 'Tag',
@@ -33,7 +27,7 @@ const Categories = defineNestedType(() => ({
 const Post = defineDocumentType(() => ({
     name: 'Post',
     filePathPattern: `**/*.md`,
-    bodyType: 'markdown',
+    contentType: 'markdown',
     fields: {
       title: {
         type: 'string',required: true,
@@ -77,11 +71,16 @@ const Post = defineDocumentType(() => ({
       }
 
     },
-    computedFields,
+    computedFields: {
+      slug: {
+        type: "string",
+        resolve: (doc) => doc._raw.sourceFileName.replace(/\.md/, ""),
+      },
+    }
   
   }))
   
-  export default makeSource({
+export default makeSource({
     contentDirPath: 'posts',
     documentTypes: [Post],
-  })
+})

@@ -3,7 +3,6 @@ import ItemPost from '../../components/ItemPost'
 import { slugify, ImageUrl } from '../../utils'
 import { NextSeo } from 'next-seo';
 import { allPosts } from "contentlayer/generated";
-import { pick } from "@contentlayer/client";
 
 export default function tag({ posts }) {
   return (
@@ -63,7 +62,7 @@ export default function tag({ posts }) {
 export async function getStaticPaths() {
 
   let paths =[]
-
+// get all tag paths  
   allPosts.map(
     post => {
       if (post.draft===false){
@@ -89,7 +88,7 @@ export async function getStaticPaths() {
 export async function getStaticProps({ params: { slug } }) {
   let posts =[]
 
-
+// get all tag posts base on slug  
  const post= allPosts.map(
     (post) => {
 

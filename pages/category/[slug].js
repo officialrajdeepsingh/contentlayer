@@ -1,4 +1,3 @@
-
 import Link from 'next/link'
 import ItemPost from '../../components/ItemPost'
 import { slugify, ImageUrl } from '../../utils'
@@ -6,13 +5,9 @@ import { NextSeo } from 'next-seo';
 
 import { allPosts } from "contentlayer/generated";
 
-import { pick } from "@contentlayer/client";
-
 
 
 export default function Category({ posts }) {
-
-
 
   return (
     <>
@@ -71,6 +66,7 @@ export async function getStaticPaths() {
 
   let paths =[]
 
+  // get all category paths  
   allPosts.map(
     post => {
       if (post.draft===false){
@@ -97,7 +93,7 @@ export async function getStaticProps({ params: { slug } }) {
 
   let posts =[]
 
-
+// get all category posts base on slug  
  const post= allPosts.map(
     (post) => {
 

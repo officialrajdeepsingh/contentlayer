@@ -48,21 +48,26 @@ export default function Home({ posts }) {
   )
 }
 
-// fetch all posts
+// fetch all posts 
 export async function getStaticProps() {
 
   const posts = allPosts.map((post) => pick(post, ["title", "date", "slug", "description", "summary", "draft", "image", "images", "tags", "categories"]));
 
- 
+ // filter publish posts
   const publish= posts.filter(
     (post, i) =>{
       return post.draft===false
     }
   )
+ 
+  /*
+    // serach functionalty 
+    // convert data into string
+  */
   
-  // serach functionalty 
     const jsonString = JSON.stringify(publish)
 
+    //  create serach.json file in root level
     fs.writeFileSync('./search.json', jsonString, err => {
       
       if (err) {
@@ -71,7 +76,6 @@ export async function getStaticProps() {
           console.log('Successfully wrote file')
       }
   })
-
 
   return {
     props: {
