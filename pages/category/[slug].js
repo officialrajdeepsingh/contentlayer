@@ -1,4 +1,3 @@
-import Link from 'next/link'
 import ItemPost from '../../components/ItemPost'
 import { slugify, ImageUrl } from '../../utils'
 import { NextSeo } from 'next-seo';
@@ -21,7 +20,7 @@ export default function Category({ posts }) {
 
           images: [
             {
-              url: `${ImageUrl('banner.png')}`,
+              url: posts.image,
               width: 1224,
               height: 724,
               alt: 'banner',

@@ -44,7 +44,7 @@ export default function PostPage({ post }) {
         <div className="row">
           <div className="col-lg-10 m-auto">
             <div className='card card-page'>
-              <a href={`/blog/${post.slug}`} > <img className="card-img-top" src={ImageUrl(post.image)} alt="..." /></a>
+              <a href={`/blog/${post.slug}`} > <img className="card-img-top" src={post.image} alt="..." /></a>
 
               <h1 className='post-title mt-2 p-2'>{post.title}</h1>
               <div className='post-date m-1 p-2'>

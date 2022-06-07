@@ -5,7 +5,7 @@
   "description": "Npm install command help to install package from npmjs.org",
   "slug": "how-is-npm-install-command",
   "id": 1,
-  "image": "http://localhost:3000/images/npm-init-command-1.png",
+  "image": "https://contentlayer-iota.vercel.app/images/npm-init-command-1.png",
   "draft": false,
   "summary": "Npm install command help to install package from npmjs.org",
   "tags": [
@@ -14,7 +14,7 @@
     "npm install command"
   ],
   "images": [
-    "http://localhost:3000/images/npm-init-command-1.png"
+    "https://contentlayer-iota.vercel.app/images/npm-init-command-1.png"
   ],
   "categories": [
     "npm",

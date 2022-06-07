@@ -5,7 +5,7 @@
   "description": "Easy Ways Add CSS in Next.js #SeriesPart2",
   "slug": "how-to-add-css-in-next-js",
   "id": 2,
-  "image": "http://localhost:3000/images/next.js-add-css-code.jpg",
+  "image": "https://contentlayer-iota.vercel.app/images/next.js-add-css-code.jpg",
   "draft": false,
   "summary": "Easy Ways Add CSS in Next.js #SeriesPart2 \n",
   "tags": [
@@ -17,7 +17,7 @@
     "react.js tutorial"
   ],
   "images": [
-    "http://localhost:3000/images/next.js-add-css-code.jpg"
+    "https://contentlayer-iota.vercel.app/images/next.js-add-css-code.jpg"
   ],
   "categories": [
     "Next.js",

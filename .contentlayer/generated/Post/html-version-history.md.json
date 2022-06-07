@@ -5,7 +5,7 @@
   "description": "HTML History Very Complicated. But I Try To Explain Very Easy Way.",
   "slug": "html-version-history",
   "id": 10,
-  "image": "http://localhost:3000/images/HTML-Version-History.jpg",
+  "image": "https://contentlayer-iota.vercel.app/images/HTML-Version-History.jpg",
   "draft": false,
   "summary": "HTML History Very Complicated. But I Try To Explain Very Easy Way.",
   "tags": [
@@ -16,7 +16,7 @@
     "Who Create Html"
   ],
   "images": [
-    "http://localhost:3000/images/HTML-Version-History.jpg"
+    "https://contentlayer-iota.vercel.app/images/HTML-Version-History.jpg"
   ],
   "categories": [
     "html",
