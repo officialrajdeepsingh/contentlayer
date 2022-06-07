@@ -17,7 +17,7 @@ export default function tag({ posts }) {
 
           images: [
             {
-              url: posts.image,
+              url: `${ImageUrl('banner.png')}`,
               width: 1224,
               height: 724,
               alt: 'banner',

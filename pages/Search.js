@@ -1,10 +1,9 @@
 import Post from '../components/Post'
 import Banner from "../components/Banner";
-// import search from "../search.json";
 import { useRouter } from 'next/router'
 import { NextSeo } from 'next-seo';
-import { ImageUrl } from '../utils'
 import { allPosts } from "contentlayer/generated";
+import { slugify, ImageUrl } from '../utils'
 
 
 export default function Search() {
