@@ -3,7 +3,9 @@
   "date": "2020-12-24T11:13:05.000Z",
   "author": "Rajdeep Singh",
   "description": "HTML History Very Complicated. But I Try To Explain Very Easy Way.",
-  "image": "images/HTML-Version-History.jpg",
+  "slug": "html-version-history",
+  "id": 10,
+  "image": "http://localhost:3000/images/HTML-Version-History.jpg",
   "draft": false,
   "summary": "HTML History Very Complicated. But I Try To Explain Very Easy Way.",
   "tags": [
@@ -14,7 +16,7 @@
     "Who Create Html"
   ],
   "images": [
-    "images/HTML-Version-History.jpg"
+    "http://localhost:3000/images/HTML-Version-History.jpg"
   ],
   "categories": [
     "html",
@@ -35,6 +37,5 @@
     "contentType": "markdown",
     "flattenedPath": "html-version-history"
   },
-  "type": "Post",
-  "slug": "html-version-history"
+  "type": "Post"
 }

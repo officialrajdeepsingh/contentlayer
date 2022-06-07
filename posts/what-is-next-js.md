@@ -4,12 +4,12 @@ categories : ["Next.js", "Next.js Tutorial", "React.js", "React.js Framework", "
 date : "2020-11-08T13:10:48Z"
 description : "Basic Introduction About Next.js #SeriesStart"
 draft : false
-image : "images/next.js.png"
-images : ["images/next.js.png"]
+image : "http://localhost:3000/images/next.js.png"
+images : ["http://localhost:3000/images/next.js.png"]
 summary : "Basic Introduction About Next.js #SeriesStart"
 tags : ["Next.js", "Next.js Tutorial", "React.js", "React.js Framework", "javascript Framework", "Next", "Next.js Framework"]
 title : "What is Next.js?"
-
+id: 16
 ---
 
 

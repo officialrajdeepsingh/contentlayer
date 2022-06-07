@@ -3,7 +3,9 @@
   "date": "2021-01-24T12:26:07.000Z",
   "author": "Rajdeep Singh",
   "description": "Raspi does not provide screenshots functionality by default. you use software and tool to take a screenshot in raspi.",
-  "image": "images/How-to-capture-screenshots-in-Raspberry-PI-4.png",
+  "slug": "how-to-capture-screenshots-in-raspberry-pi-4",
+  "id": 4,
+  "image": "http://localhost:3000/images/How-to-capture-screenshots-in-Raspberry-PI-4.png",
   "draft": false,
   "summary": "Raspi does not provide screenshots functionality by default. you use software and tool to take a screenshot in raspi.",
   "tags": [
@@ -15,7 +17,7 @@
     "install gnome screenshot"
   ],
   "images": [
-    "images/How-to-capture-screenshots-in-Raspberry-PI-4.png"
+    "http://localhost:3000/images/How-to-capture-screenshots-in-Raspberry-PI-4.png"
   ],
   "categories": [
     "Raspberry",
@@ -37,6 +39,5 @@
     "contentType": "markdown",
     "flattenedPath": "how-to-capture-screenshots-in-raspberry-pi-4"
   },
-  "type": "Post",
-  "slug": "how-to-capture-screenshots-in-raspberry-pi-4"
+  "type": "Post"
 }

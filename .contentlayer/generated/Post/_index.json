@@ -1,10 +1,271 @@
 [
   {
+    "title": "Article post 16",
+    "date": "2022-03-19T17:11:14.000Z",
+    "author": "Rajdeep Singh",
+    "description": "",
+    "slug": "article-post-16",
+    "id": 17,
+    "image": "http://localhost:3000/images/contentlayer.png",
+    "draft": false,
+    "summary": "article post 16",
+    "tags": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "images": [
+      "http://localhost:3000/images/contentlayer.png"
+    ],
+    "categories": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "body": {
+      "raw": "\narticle post 16 ",
+      "html": "<p>article post 16</p>"
+    },
+    "_id": "article-post-16.md",
+    "_raw": {
+      "sourceFilePath": "article-post-16.md",
+      "sourceFileName": "article-post-16.md",
+      "sourceFileDir": ".",
+      "contentType": "markdown",
+      "flattenedPath": "article-post-16"
+    },
+    "type": "Post"
+  },
+  {
+    "title": "Article post 17",
+    "date": "2022-03-20T17:11:14.000Z",
+    "author": "Rajdeep Singh",
+    "description": "",
+    "slug": "article-post-17",
+    "id": 18,
+    "image": "http://localhost:3000/images/contentlayer.png",
+    "draft": false,
+    "summary": "article post 17",
+    "tags": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "images": [
+      "http://localhost:3000/images/contentlayer.png"
+    ],
+    "categories": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "body": {
+      "raw": "\narticle post 17",
+      "html": "<p>article post 17</p>"
+    },
+    "_id": "article-post-17.md",
+    "_raw": {
+      "sourceFilePath": "article-post-17.md",
+      "sourceFileName": "article-post-17.md",
+      "sourceFileDir": ".",
+      "contentType": "markdown",
+      "flattenedPath": "article-post-17"
+    },
+    "type": "Post"
+  },
+  {
+    "title": "Article post 18",
+    "date": "2022-03-21T17:11:14.000Z",
+    "author": "Rajdeep Singh",
+    "description": "",
+    "slug": "article-post-18",
+    "id": 19,
+    "image": "http://localhost:3000/images/contentlayer.png",
+    "draft": false,
+    "summary": "article post 18",
+    "tags": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "images": [
+      "http://localhost:3000/images/contentlayer.png"
+    ],
+    "categories": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "body": {
+      "raw": "\narticle post 17",
+      "html": "<p>article post 17</p>"
+    },
+    "_id": "article-post-18.md",
+    "_raw": {
+      "sourceFilePath": "article-post-18.md",
+      "sourceFileName": "article-post-18.md",
+      "sourceFileDir": ".",
+      "contentType": "markdown",
+      "flattenedPath": "article-post-18"
+    },
+    "type": "Post"
+  },
+  {
+    "title": "Article post 19",
+    "date": "2022-03-19T17:11:14.000Z",
+    "author": "Rajdeep Singh",
+    "description": "",
+    "slug": "article-post-19",
+    "id": 20,
+    "image": "http://localhost:3000/images/contentlayer.png",
+    "draft": false,
+    "summary": "article post 19",
+    "tags": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "images": [
+      "http://localhost:3000/images/contentlayer.png"
+    ],
+    "categories": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "body": {
+      "raw": "\narticle post 19",
+      "html": "<p>article post 19</p>"
+    },
+    "_id": "article-post-19.md",
+    "_raw": {
+      "sourceFilePath": "article-post-19.md",
+      "sourceFileName": "article-post-19.md",
+      "sourceFileDir": ".",
+      "contentType": "markdown",
+      "flattenedPath": "article-post-19"
+    },
+    "type": "Post"
+  },
+  {
+    "title": "Article post 20",
+    "date": "2022-03-19T17:11:14.000Z",
+    "author": "Rajdeep Singh",
+    "description": "",
+    "slug": "article-post-20",
+    "id": 21,
+    "image": "http://localhost:3000/images/contentlayer.png",
+    "draft": false,
+    "summary": "article post 20",
+    "tags": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "images": [
+      "http://localhost:3000/images/contentlayer.png"
+    ],
+    "categories": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "body": {
+      "raw": "\narticle post 20",
+      "html": "<p>article post 20</p>"
+    },
+    "_id": "article-post-20.md",
+    "_raw": {
+      "sourceFilePath": "article-post-20.md",
+      "sourceFileName": "article-post-20.md",
+      "sourceFileDir": ".",
+      "contentType": "markdown",
+      "flattenedPath": "article-post-20"
+    },
+    "type": "Post"
+  },
+  {
+    "title": "Article post 21",
+    "date": "2022-03-25T17:11:14.000Z",
+    "author": "Rajdeep Singh",
+    "description": "",
+    "slug": "article-post-21",
+    "id": 22,
+    "image": "http://localhost:3000/images/contentlayer.png",
+    "draft": false,
+    "summary": "article post 21",
+    "tags": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "images": [
+      "http://localhost:3000/images/contentlayer.png"
+    ],
+    "categories": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "body": {
+      "raw": "\narticle post 21",
+      "html": "<p>article post 21</p>"
+    },
+    "_id": "article-post-21.md",
+    "_raw": {
+      "sourceFilePath": "article-post-21.md",
+      "sourceFileName": "article-post-21.md",
+      "sourceFileDir": ".",
+      "contentType": "markdown",
+      "flattenedPath": "article-post-21"
+    },
+    "type": "Post"
+  },
+  {
+    "title": "Article post 22",
+    "date": "2022-03-19T17:11:14.000Z",
+    "author": "Rajdeep Singh",
+    "description": "",
+    "slug": "article-post-22",
+    "id": 23,
+    "image": "http://localhost:3000/images/contentlayer.png",
+    "draft": false,
+    "summary": "article post 22",
+    "tags": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "images": [
+      "http://localhost:3000/images/contentlayer.png"
+    ],
+    "categories": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "body": {
+      "raw": "\narticle post 22",
+      "html": "<p>article post 22</p>"
+    },
+    "_id": "article-post-22.md",
+    "_raw": {
+      "sourceFilePath": "article-post-22.md",
+      "sourceFileName": "article-post-22.md",
+      "sourceFileDir": ".",
+      "contentType": "markdown",
+      "flattenedPath": "article-post-22"
+    },
+    "type": "Post"
+  },
+  {
     "title": "What is the npm install command?",
     "date": "2022-03-20T13:09:24.000Z",
     "author": "Rajdeep Singh",
     "description": "Npm install command help to install package from npmjs.org",
-    "image": "images/npm-init-command-1.png",
+    "slug": "how-is-npm-install-command",
+    "id": 1,
+    "image": "http://localhost:3000/images/npm-init-command-1.png",
     "draft": false,
     "summary": "Npm install command help to install package from npmjs.org",
     "tags": [
@@ -13,7 +274,7 @@
       "npm install command"
     ],
     "images": [
-      "images/npm-init-command-1.png"
+      "http://localhost:3000/images/npm-init-command-1.png"
     ],
     "categories": [
       "npm",
@@ -32,15 +293,16 @@
       "contentType": "markdown",
       "flattenedPath": "how-is-npm-install-command"
     },
-    "type": "Post",
-    "slug": "how-is-npm-install-command"
+    "type": "Post"
   },
   {
     "title": "How To Add CSS In Next js?",
     "date": "2020-11-10T11:42:46.000Z",
     "author": "Rajdeep Singh",
     "description": "Easy Ways Add CSS in Next.js #SeriesPart2",
-    "image": "images/next.js-add-css-code.jpg",
+    "slug": "how-to-add-css-in-next-js",
+    "id": 2,
+    "image": "http://localhost:3000/images/next.js-add-css-code.jpg",
     "draft": false,
     "summary": "Easy Ways Add CSS in Next.js #SeriesPart2 \n",
     "tags": [
@@ -52,7 +314,7 @@
       "react.js tutorial"
     ],
     "images": [
-      "images/next.js-add-css-code.jpg"
+      "http://localhost:3000/images/next.js-add-css-code.jpg"
     ],
     "categories": [
       "Next.js",
@@ -74,22 +336,23 @@
       "contentType": "markdown",
       "flattenedPath": "how-to-add-css-in-next-js"
     },
-    "type": "Post",
-    "slug": "how-to-add-css-in-next-js"
+    "type": "Post"
   },
   {
     "title": "How to Add Search bar functionality in Ghost Cms Help of SearchinGhost",
     "date": "2021-10-11T10:41:36.000Z",
     "author": "Rajdeep Singh",
     "description": "",
-    "image": "",
+    "slug": "how-to-add-search-bar-functionality-in-ghost-cms-help-of-searchinghost",
+    "id": 3,
+    "image": "http://localhost:3000/images/next.js-add-css-code.jpg",
     "draft": true,
     "summary": "How to Add Search bar functionality in Ghost Cms Help of SearchinGhost",
     "tags": [
       "Ghost CMS"
     ],
     "images": [
-      "images/next.js-add-css-code.jpg"
+      "http://localhost:3000/images/next.js-add-css-code.jpg"
     ],
     "categories": [
       "Ghost CMS"
@@ -106,15 +369,16 @@
       "contentType": "markdown",
       "flattenedPath": "how-to-add-search-bar-functionality-in-ghost-cms-help-of-searchinghost"
     },
-    "type": "Post",
-    "slug": "how-to-add-search-bar-functionality-in-ghost-cms-help-of-searchinghost"
+    "type": "Post"
   },
   {
     "title": "How to capture screenshots in Raspberry PI 4",
     "date": "2021-01-24T12:26:07.000Z",
     "author": "Rajdeep Singh",
     "description": "Raspi does not provide screenshots functionality by default. you use software and tool to take a screenshot in raspi.",
-    "image": "images/How-to-capture-screenshots-in-Raspberry-PI-4.png",
+    "slug": "how-to-capture-screenshots-in-raspberry-pi-4",
+    "id": 4,
+    "image": "http://localhost:3000/images/How-to-capture-screenshots-in-Raspberry-PI-4.png",
     "draft": false,
     "summary": "Raspi does not provide screenshots functionality by default. you use software and tool to take a screenshot in raspi.",
     "tags": [
@@ -126,7 +390,7 @@
       "install gnome screenshot"
     ],
     "images": [
-      "images/How-to-capture-screenshots-in-Raspberry-PI-4.png"
+      "http://localhost:3000/images/How-to-capture-screenshots-in-Raspberry-PI-4.png"
     ],
     "categories": [
       "Raspberry",
@@ -148,15 +412,16 @@
       "contentType": "markdown",
       "flattenedPath": "how-to-capture-screenshots-in-raspberry-pi-4"
     },
-    "type": "Post",
-    "slug": "how-to-capture-screenshots-in-raspberry-pi-4"
+    "type": "Post"
   },
   {
     "title": "How to check the snap store package available for raspberry pi 4 or not?",
     "date": "2022-03-26T07:50:39.000Z",
     "author": "Rajdeep Singh",
     "description": "You can easily check the raspberry pi binary in the snap store without the command line and code.",
-    "image": "images/the-snap-store.png",
+    "slug": "how-to-check-the-snap-store-package-available-for-raspberry-pi-4-or-not",
+    "id": 5,
+    "image": "http://localhost:3000/images/the-snap-store.png",
     "draft": false,
     "summary": "You can easily check the raspberry pi binary in the snap store without the command line and code.",
     "tags": [
@@ -167,7 +432,7 @@
       "Binary"
     ],
     "images": [
-      "images/the-snap-store.png"
+      "http://localhost:3000/images/the-snap-store.png"
     ],
     "categories": [
       "Raspberry pi 4",
@@ -188,15 +453,178 @@
       "contentType": "markdown",
       "flattenedPath": "how-to-check-the-snap-store-package-available-for-raspberry-pi-4-or-not"
     },
-    "type": "Post",
-    "slug": "how-to-check-the-snap-store-package-available-for-raspberry-pi-4-or-not"
+    "type": "Post"
+  },
+  {
+    "title": "How to Install Go language in Raspberry pi 4 and Ubuntu?",
+    "date": "2022-03-15T10:59:50.000Z",
+    "author": "Rajdeep Singh",
+    "description": "",
+    "slug": "how-to-install-go-language-in-raspberry-pi-4-and-ubuntu",
+    "id": 6,
+    "image": "http://localhost:3000/images/install-go-langauge.png",
+    "draft": false,
+    "summary": "Go language is a low-level language developed by Google.  You can install go language in ubuntu and raspberry pi with one command.",
+    "tags": [
+      "go language",
+      "Linux",
+      "Raspberry pi 4",
+      "Ubuntu",
+      "install go language"
+    ],
+    "images": [
+      "http://localhost:3000/images/install-go-langauge.png"
+    ],
+    "categories": [
+      "go language",
+      "Linux",
+      "Raspberry pi 4",
+      "Ubuntu",
+      "install go language"
+    ],
+    "body": {
+      "raw": "\n\nYou install go language in raspberry pi 4, Ubuntu and Linux. The go language installation process is similar for all the Linux distros.\n\nThere is two way to install the go language in raspberry pi 4.\n\n1. Snap\n2. Command-line\n\n### Snap\n\nWith the help of the [Snap store](https://snapcraft.io/go), the easy way to install Go language in Raspberry pi 4 and ubuntu.\n\nSimple you paste only one snap command in raspberry pi 4, and your go language install and config path automatics in raspberry pi 4.\n\n```Command\nsudo snap install go --classic\n```\n\n[Install Go language raspberry pi and ubuntu](images/2022/03/carbon--3-.png)\n\n> https://snapcraft.io/go\n\n### Note\n\n> Install the go lang with Snap. Firstly, install snap cli in raspberry pi 4, and Ubuntu comes pre-install with a snap cli.\n\n---\n\n### Command-line\n\nThe command-line provides both armhf and armd binary format of go language. Moreover, the command line utility helps the config everything inside raspberry pi 4 and ubuntu.\n\n```\nsudo apt-get install golang-go\n```\n\n[Install go language with apt-get in raspberry pi and ubuntu](images/carbon--5-.png)\n\n---\n\n### Check the go language version in raspberry pi 4 and ubuntu.\n\n```\ngo version\n```\n\n[Check go language version in the terminal](images/carbon--6--1.png)\n\n\n\n---\n\n### How to remove the go language package?\n\n* Snap\n* command-line\n\n### Snap\n\nRemove all the go language configurations and packages in Raspberry pi 4 and ubuntu.\n\n```\nsnap remove go\n```\n[remove go language](images/2022/03/carbon--4-.png)\n\n### Note\n\n> If you install go with a snap then you remove go with a snap.\n\n\n\n### Command-line\n\nRemove or uninstall the go language package with all configuration use of the apt-get command.\n\n```command\nsudo apt-get purge golang-go\n```\n\n\n\n---\n\n### Conclusion\n\nI hope my article helps you. I'm not the go lang developer.\n\n\n\n",
+      "html": "<p>You install go language in raspberry pi 4, Ubuntu and Linux. The go language installation process is similar for all the Linux distros.</p>\n<p>There is two way to install the go language in raspberry pi 4.</p>\n<ol>\n<li>Snap</li>\n<li>Command-line</li>\n</ol>\n<h3>Snap</h3>\n<p>With the help of the <a href=\"https://snapcraft.io/go\">Snap store</a>, the easy way to install Go language in Raspberry pi 4 and ubuntu.</p>\n<p>Simple you paste only one snap command in raspberry pi 4, and your go language install and config path automatics in raspberry pi 4.</p>\n<pre><code class=\"language-Command\">sudo snap install go --classic\n</code></pre>\n<p><a href=\"images/2022/03/carbon--3-.png\">Install Go language raspberry pi and ubuntu</a></p>\n<blockquote>\n<p>https://snapcraft.io/go</p>\n</blockquote>\n<h3>Note</h3>\n<blockquote>\n<p>Install the go lang with Snap. Firstly, install snap cli in raspberry pi 4, and Ubuntu comes pre-install with a snap cli.</p>\n</blockquote>\n<hr>\n<h3>Command-line</h3>\n<p>The command-line provides both armhf and armd binary format of go language. Moreover, the command line utility helps the config everything inside raspberry pi 4 and ubuntu.</p>\n<pre><code>sudo apt-get install golang-go\n</code></pre>\n<p><a href=\"images/carbon--5-.png\">Install go language with apt-get in raspberry pi and ubuntu</a></p>\n<hr>\n<h3>Check the go language version in raspberry pi 4 and ubuntu.</h3>\n<pre><code>go version\n</code></pre>\n<p><a href=\"images/carbon--6--1.png\">Check go language version in the terminal</a></p>\n<hr>\n<h3>How to remove the go language package?</h3>\n<ul>\n<li>Snap</li>\n<li>command-line</li>\n</ul>\n<h3>Snap</h3>\n<p>Remove all the go language configurations and packages in Raspberry pi 4 and ubuntu.</p>\n<pre><code>snap remove go\n</code></pre>\n<p><a href=\"images/2022/03/carbon--4-.png\">remove go language</a></p>\n<h3>Note</h3>\n<blockquote>\n<p>If you install go with a snap then you remove go with a snap.</p>\n</blockquote>\n<h3>Command-line</h3>\n<p>Remove or uninstall the go language package with all configuration use of the apt-get command.</p>\n<pre><code class=\"language-command\">sudo apt-get purge golang-go\n</code></pre>\n<hr>\n<h3>Conclusion</h3>\n<p>I hope my article helps you. I'm not the go lang developer.</p>"
+    },
+    "_id": "how-to-install-go-language-in-raspberry-pi-4-and-ubuntu.md",
+    "_raw": {
+      "sourceFilePath": "how-to-install-go-language-in-raspberry-pi-4-and-ubuntu.md",
+      "sourceFileName": "how-to-install-go-language-in-raspberry-pi-4-and-ubuntu.md",
+      "sourceFileDir": ".",
+      "contentType": "markdown",
+      "flattenedPath": "how-to-install-go-language-in-raspberry-pi-4-and-ubuntu"
+    },
+    "type": "Post"
+  },
+  {
+    "title": "How to install neovim IDE in Raspberry pi 4 and Ubuntu?",
+    "date": "2022-03-18T17:11:14.000Z",
+    "author": "Rajdeep Singh",
+    "description": "",
+    "slug": "how-to-install-neovim-ide-in-raspberry-pi-4-and-ubuntu",
+    "id": 7,
+    "image": "http://localhost:3000/images/install--neovim.png",
+    "draft": false,
+    "summary": "The neovim terminal base Linux IDE. neovim provide terminal base Code written Experience",
+    "tags": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "images": [
+      "http://localhost:3000/images/install--neovim.png"
+    ],
+    "categories": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "body": {
+      "raw": "\n\nThe neovim ide base on linuix vim text editor. neovim ide work inside your terminal. You do not need to install a big IDE in raspberry pi 4. The Biggest IDE Eat more ram and resources. So that reason your raspberry pi is very slow. The slowness of raspberry pi gives motivation and strength to shift vscode Editor to neovim.\n\n**You can install neovim in two ways**\n\n1. Snap store\n2. Apt-get or Apt\n\n## Snap store\n\nYou install neovim is very easy with the snap store. You do not need to use other configurations. all the configurations handle snap cli.\n\n```\nsudo snap install  nvim --classic\n```\n\n### Note\n\n> Snap cli all ready install in ubuntu and raspberry pi user firstly install snap cli after run snap following neovim install command.\n\n## Apt-get or Apt\n\nYou can install neovim with inbuild apt-get command-line utility in Linux distro. Simple, you run the following command, and your neovim start to download in Linux.\n\n```\nsudo apt-get install neovim\n\n```\n\n> apt and apt-get is similar command. you can use one of them. some of distro support apt and some of apt-get. but raspberry pi and ubuntu support both of them.\n\n### How to run neovim in raspberry pi 4 and Ubuntu?\n\nYou can run neovim with terminal very easily.\n\n```\nnvim\n```\n\nOpen the file with neovim.\n\n```\nnvim snapPackage.txt \n\n```\n\n\n\n### How to uninstall or remove neovim?\n\nBased on the installation, you can easily remove neovim IDE.\n\n1. Snap\n2. Apt or Apt-get\n\n### Snap\n\nIf you use snap, you run the following command to remove neovim in raspberry pi and ubuntu.\n\n```\nsudo snap remove nvim\n```\n\n\n\n### Apt or Apt-get\n\nIf you use Apt or Apt-get, you can run the following command to remove neovim in raspberry pi and ubuntu.\n\n```\n sudo apt-get purge neovim\n```\n\n---\n\n### References\n\n> https://snapcraft.io/nvim\n\n\n\n> https://github.com/neovim/neovim\n\n\n---\n\n### Conclusion\n\nI hope my article helps you a lot. If you have any queries and ask me in the comment section.\n\n> **You can also subscribe our email for notification.**\n\n",
+      "html": "<p>The neovim ide base on linuix vim text editor. neovim ide work inside your terminal. You do not need to install a big IDE in raspberry pi 4. The Biggest IDE Eat more ram and resources. So that reason your raspberry pi is very slow. The slowness of raspberry pi gives motivation and strength to shift vscode Editor to neovim.</p>\n<p><strong>You can install neovim in two ways</strong></p>\n<ol>\n<li>Snap store</li>\n<li>Apt-get or Apt</li>\n</ol>\n<h2>Snap store</h2>\n<p>You install neovim is very easy with the snap store. You do not need to use other configurations. all the configurations handle snap cli.</p>\n<pre><code>sudo snap install  nvim --classic\n</code></pre>\n<h3>Note</h3>\n<blockquote>\n<p>Snap cli all ready install in ubuntu and raspberry pi user firstly install snap cli after run snap following neovim install command.</p>\n</blockquote>\n<h2>Apt-get or Apt</h2>\n<p>You can install neovim with inbuild apt-get command-line utility in Linux distro. Simple, you run the following command, and your neovim start to download in Linux.</p>\n<pre><code>sudo apt-get install neovim\n\n</code></pre>\n<blockquote>\n<p>apt and apt-get is similar command. you can use one of them. some of distro support apt and some of apt-get. but raspberry pi and ubuntu support both of them.</p>\n</blockquote>\n<h3>How to run neovim in raspberry pi 4 and Ubuntu?</h3>\n<p>You can run neovim with terminal very easily.</p>\n<pre><code>nvim\n</code></pre>\n<p>Open the file with neovim.</p>\n<pre><code>nvim snapPackage.txt \n\n</code></pre>\n<h3>How to uninstall or remove neovim?</h3>\n<p>Based on the installation, you can easily remove neovim IDE.</p>\n<ol>\n<li>Snap</li>\n<li>Apt or Apt-get</li>\n</ol>\n<h3>Snap</h3>\n<p>If you use snap, you run the following command to remove neovim in raspberry pi and ubuntu.</p>\n<pre><code>sudo snap remove nvim\n</code></pre>\n<h3>Apt or Apt-get</h3>\n<p>If you use Apt or Apt-get, you can run the following command to remove neovim in raspberry pi and ubuntu.</p>\n<pre><code> sudo apt-get purge neovim\n</code></pre>\n<hr>\n<h3>References</h3>\n<blockquote>\n<p>https://snapcraft.io/nvim</p>\n</blockquote>\n<blockquote>\n<p>https://github.com/neovim/neovim</p>\n</blockquote>\n<hr>\n<h3>Conclusion</h3>\n<p>I hope my article helps you a lot. If you have any queries and ask me in the comment section.</p>\n<blockquote>\n<p><strong>You can also subscribe our email for notification.</strong></p>\n</blockquote>"
+    },
+    "_id": "how-to-install-neovim-ide-in-raspberry-pi-4-and-ubuntu.md",
+    "_raw": {
+      "sourceFilePath": "how-to-install-neovim-ide-in-raspberry-pi-4-and-ubuntu.md",
+      "sourceFileName": "how-to-install-neovim-ide-in-raspberry-pi-4-and-ubuntu.md",
+      "sourceFileDir": ".",
+      "contentType": "markdown",
+      "flattenedPath": "how-to-install-neovim-ide-in-raspberry-pi-4-and-ubuntu"
+    },
+    "type": "Post"
+  },
+  {
+    "title": "How to install pycharm in raspi 4",
+    "date": "2021-01-20T07:10:27.000Z",
+    "author": "Rajdeep Singh",
+    "description": "",
+    "slug": "how-to-install-pycharm-in-raspi-4",
+    "id": 8,
+    "image": "http://localhost:3000/images/How-to-install-pycharm-in-raspi-4.png",
+    "draft": false,
+    "summary": "Pycharm is an IDE used for python programming. pycharm develop by JetBrains.",
+    "tags": [
+      "Raspberry",
+      "Raspberry pi 4",
+      "ras pi",
+      "pycharm",
+      "pycharm in raspi",
+      "install pycharm"
+    ],
+    "images": [
+      "http://localhost:3000/images/How-to-install-pycharm-in-raspi-4.png"
+    ],
+    "categories": [
+      "Raspberry",
+      "Raspberry pi 4",
+      "ras pi",
+      "pycharm",
+      "pycharm in raspi",
+      "install pycharm"
+    ],
+    "body": {
+      "raw": "\n\nHey!, Everyone my name is Rajdeep Singh. Welcome again to my new post on Raspberry pi 4.In this post, We Learn How to install Pycharm Community Version On Raspberry pi 4.\n\n**Watch This video after following my articles steps:**\n\n<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/jAjwzkEDrgI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n### Steps:\n\n1. Download\n2. Config\n\n### Download:\n\nGo to [Pycharm](https://www.jetbrains.com/pycharm/download/#section=linux) official website and download the latest Linux version in your Raspberry pi 4.\n\n[Download Pycharm Linux Version](images/2021/01/download-pycharm.png) \n\n---\n\n### Config:\n\n* Go to the **download folder** and Select your **download File**. then the **press right-click** after selecting the **extract here** option after your file **successfully extract**. make sure file extract takes time.\n* Open your Linux Terminal using **ctrl+alt+t.**\n\n```command\nctrl+alt+t\n```\n\n* Go to the **Downloads** folder using **cd Downloads.**\n\n```commands\ncd Downloads\n```\n\n[Go to cd Downloads folders](images/pycharm1.png)\n\n* paste **ls commands** inside the Downloads folder\n\n```command\nls\n```\n\n[paste ls command in terminal](images/pycharm-2.png)\n\n* after you see, your pycharm **pycharm-community-2020.3.2** file in the Downloads folder or **similar file** you see it.\n* Then **Move** your **pycharm file** to the pi opt folder. using the **mv command**\n\n```\n sudo mv pycharm-community-2020.3.2  /opt/pycharm-community-2020.3.2\n```\n\n[paste mv command inside terminal](images/pycharm-3.png)\n\n* Successfully move the file to the **opt folder**. then go back using the **cd command.**\n\n```\ncd\n```\n\n[go back in main root folder](images/pycharm-4.png) \n\n* **go to use cd /opt/**pycharm-community-2020.3.2/**bin** command into **bin folder**\n\n```command\ncd /opt/pycharm-community-2020.3.2/bin\n```\n\n[go to bin folder in raspi 4](images/pycharm-5.png) \n\n* after run **./pycharm.sh** pycharm Script and your pycharm successful Install now.\n\n```command\n ./pycharm.sh\n```\n\n[paste command to install pycharm](images/pycharm-6.png) \n\n\n\n### Note:\n\nyou alwayes open your pycharm using . /pycharm.sh command.this pycharm not be show in your rapberry pi **programing** folder\n\n```command\n. /pycharm.sh\n```\n\n---\n\n### Refrenece:\n\n[https://www.element14.com/community/community/raspberry-pi/blog/2019/09/12/installing-pycharm-on-raspberry-pi](https://www.element14.com/community/community/raspberry-pi/blog/2019/09/12/installing-pycharm-on-raspberry-pi)\n\n---\n\n### Hire me:\n\n**Fiverr:**[https://www.fiverr.com/users/officialrajdeep/](https://www.fiverr.com/users/officialrajdeep/)\n\n**Upwork:**[https://www.upwork.com/freelancers/~01a4e8ba7a41795229](https://www.upwork.com/freelancers/~01a4e8ba7a41795229)\n\n---\n\n# Contact me\n\n* [https://www.facebook.com/officialrajdeepsingh/](https://www.facebook.com/officialrajdeepsingh/)\n* [https://medium.com/officialrajdeepsingh](https://medium.com/officialrajdeepsingh)\n* [officialrajdeepsingh@gmail.com](mailto:officialrajdeepsingh@gmail.com)\n\n\n---\n\n\n\n",
+      "html": "<p>Hey!, Everyone my name is Rajdeep Singh. Welcome again to my new post on Raspberry pi 4.In this post, We Learn How to install Pycharm Community Version On Raspberry pi 4.</p>\n<p><strong>Watch This video after following my articles steps:</strong></p>\n<h3>Steps:</h3>\n<ol>\n<li>Download</li>\n<li>Config</li>\n</ol>\n<h3>Download:</h3>\n<p>Go to <a href=\"https://www.jetbrains.com/pycharm/download/#section=linux\">Pycharm</a> official website and download the latest Linux version in your Raspberry pi 4.</p>\n<p><a href=\"images/2021/01/download-pycharm.png\">Download Pycharm Linux Version</a></p>\n<hr>\n<h3>Config:</h3>\n<ul>\n<li>Go to the <strong>download folder</strong> and Select your <strong>download File</strong>. then the <strong>press right-click</strong> after selecting the <strong>extract here</strong> option after your file <strong>successfully extract</strong>. make sure file extract takes time.</li>\n<li>Open your Linux Terminal using <strong>ctrl+alt+t.</strong></li>\n</ul>\n<pre><code class=\"language-command\">ctrl+alt+t\n</code></pre>\n<ul>\n<li>Go to the <strong>Downloads</strong> folder using <strong>cd Downloads.</strong></li>\n</ul>\n<pre><code class=\"language-commands\">cd Downloads\n</code></pre>\n<p><a href=\"images/pycharm1.png\">Go to cd Downloads folders</a></p>\n<ul>\n<li>paste <strong>ls commands</strong> inside the Downloads folder</li>\n</ul>\n<pre><code class=\"language-command\">ls\n</code></pre>\n<p><a href=\"images/pycharm-2.png\">paste ls command in terminal</a></p>\n<ul>\n<li>after you see, your pycharm <strong>pycharm-community-2020.3.2</strong> file in the Downloads folder or <strong>similar file</strong> you see it.</li>\n<li>Then <strong>Move</strong> your <strong>pycharm file</strong> to the pi opt folder. using the <strong>mv command</strong></li>\n</ul>\n<pre><code> sudo mv pycharm-community-2020.3.2  /opt/pycharm-community-2020.3.2\n</code></pre>\n<p><a href=\"images/pycharm-3.png\">paste mv command inside terminal</a></p>\n<ul>\n<li>Successfully move the file to the <strong>opt folder</strong>. then go back using the <strong>cd command.</strong></li>\n</ul>\n<pre><code>cd\n</code></pre>\n<p><a href=\"images/pycharm-4.png\">go back in main root folder</a></p>\n<ul>\n<li>**go to use cd /opt/**pycharm-community-2020.3.2/<strong>bin</strong> command into <strong>bin folder</strong></li>\n</ul>\n<pre><code class=\"language-command\">cd /opt/pycharm-community-2020.3.2/bin\n</code></pre>\n<p><a href=\"images/pycharm-5.png\">go to bin folder in raspi 4</a></p>\n<ul>\n<li>after run <strong>./pycharm.sh</strong> pycharm Script and your pycharm successful Install now.</li>\n</ul>\n<pre><code class=\"language-command\"> ./pycharm.sh\n</code></pre>\n<p><a href=\"images/pycharm-6.png\">paste command to install pycharm</a></p>\n<h3>Note:</h3>\n<p>you alwayes open your pycharm using . /pycharm.sh command.this pycharm not be show in your rapberry pi <strong>programing</strong> folder</p>\n<pre><code class=\"language-command\">. /pycharm.sh\n</code></pre>\n<hr>\n<h3>Refrenece:</h3>\n<p><a href=\"https://www.element14.com/community/community/raspberry-pi/blog/2019/09/12/installing-pycharm-on-raspberry-pi\">https://www.element14.com/community/community/raspberry-pi/blog/2019/09/12/installing-pycharm-on-raspberry-pi</a></p>\n<hr>\n<h3>Hire me:</h3>\n<p><strong>Fiverr:</strong><a href=\"https://www.fiverr.com/users/officialrajdeep/\">https://www.fiverr.com/users/officialrajdeep/</a></p>\n<p><strong>Upwork:</strong><a href=\"https://www.upwork.com/freelancers/~01a4e8ba7a41795229\">https://www.upwork.com/freelancers/~01a4e8ba7a41795229</a></p>\n<hr>\n<h1>Contact me</h1>\n<ul>\n<li><a href=\"https://www.facebook.com/officialrajdeepsingh/\">https://www.facebook.com/officialrajdeepsingh/</a></li>\n<li><a href=\"https://medium.com/officialrajdeepsingh\">https://medium.com/officialrajdeepsingh</a></li>\n<li><a href=\"mailto:officialrajdeepsingh@gmail.com\">officialrajdeepsingh@gmail.com</a></li>\n</ul>\n<hr>"
+    },
+    "_id": "how-to-install-pycharm-in-raspi-4.md",
+    "_raw": {
+      "sourceFilePath": "how-to-install-pycharm-in-raspi-4.md",
+      "sourceFileName": "how-to-install-pycharm-in-raspi-4.md",
+      "sourceFileDir": ".",
+      "contentType": "markdown",
+      "flattenedPath": "how-to-install-pycharm-in-raspi-4"
+    },
+    "type": "Post"
+  },
+  {
+    "title": "How to install rust language in raspberry pi 4 and ubuntu?",
+    "date": "2022-03-17T07:05:24.000Z",
+    "author": "Rajdeep Singh",
+    "description": "",
+    "slug": "how-to-install-rust-language-in-raspberry-pi-4-and-ubuntu",
+    "id": 9,
+    "image": "http://localhost:3000/images/install-Rust-langauge.png",
+    "draft": false,
+    "summary": "Install the Rust language in the Linux distros. ",
+    "tags": [
+      "Rust",
+      "Linux",
+      "Raspberry pi 4",
+      "Install Rust in Linux",
+      "Ubuntu"
+    ],
+    "images": [
+      "http://localhost:3000/images/install-Rust-langauge.png"
+    ],
+    "categories": [
+      "Rust",
+      "Linux",
+      "Raspberry pi 4",
+      "Install Rust in Linux",
+      "Ubuntu"
+    ],
+    "body": {
+      "raw": "\n\nInstallation of Rust in raspberry pi 4 and Ubuntu is a very easy process for all  Linux distros. You can install Rust with one single command. So simple, you copy and paste in your terminal.\n\n### Install Rust\n\n```command\ncurl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh\n```\n\nAfter you paste the command in a terminal, the rust setup asks one question to start the installation rust in your distro.\n\n```\nrajdeepsingh@rajdeepsingh:/$ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh\ninfo: downloading installer\nWelcome to Rust!\n....\nCurrent installation options:\ndefault host triple: aarch64-unknown-linux-gnu\n     default toolchain: stable (default)\n               profile: default\n  modify PATH variable: yes\n1) Proceed with installation (default)\n2) Customize installation\n3) Cancel installation\n> 1\n```\n\nI select default rust installation in raspberry pi 4. so everything is mange by rust lang.\n\n### The rust command output\n\n```\nrajdeepsingh@officialrajdeepsingh:/$ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh\ninfo: downloading installer\nWelcome to Rust!\nThis will download and install the official compiler for the Rust\nprogramming language, and its package manager, Cargo.\nRustup metadata and toolchains will be installed into the Rustup\nhome directory, located at:\n/home/rajdeepsingh/.rustup\nThis can be modified with the RUSTUP_HOME environment variable.\nThe Cargo home directory located at:\n/home/rajdeepsingh/.cargo\nThis can be modified with the CARGO_HOME environment variable.\nThe cargo, rustc, rustup and other commands will be added to\nCargo's bin directory, located at:\n/home/rajdeepsingh/.cargo/bin\nThis path will then be added to your PATH environment variable by\nmodifying the profile files located at:\n/home/rajdeepsingh/.profile\n  /home/rajdeepsingh/.bashrc\nYou can uninstall at any time with rustup self uninstall and\nthese changes will be reverted.\nCurrent installation options:\ndefault host triple: aarch64-unknown-linux-gnu\n     default toolchain: stable (default)\n               profile: default\n  modify PATH variable: yes\n1) Proceed with installation (default)\n2) Customize installation\n3) Cancel installation\n>1\ninfo: profile set to 'default'\ninfo: default host triple is aarch64-unknown-linux-gnu\ninfo: syncing channel updates for 'stable-aarch64-unknown-linux-gnu'\n686.2 KiB / 686.2 KiB (100 %) 170.5 KiB/s in  5s ETA:  0s\ninfo: latest update on 2022-02-24, rust version 1.59.0 (9d1b2106e 2022-02-23)\ninfo: downloading component 'cargo'\n  5.5 MiB /   5.5 MiB (100 %) 267.0 KiB/s in 23s ETA:  0s\ninfo: downloading component 'clippy'\n  2.3 MiB /   2.3 MiB (100 %) 275.9 KiB/s in 11s ETA:  0s\ninfo: downloading component 'rust-docs'\n 19.3 MiB /  19.3 MiB (100 %) 321.3 KiB/s in 59s ETA:  0s    \ninfo: downloading component 'rust-std'\n 31.6 MiB /  31.6 MiB (100 %) 540.1 KiB/s in  1m 38s ETA:  0s    \ninfo: downloading component 'rustc'\n 73.1 MiB /  73.1 MiB (100 %) 270.2 KiB/s in  4m 41s ETA:  0s    \ninfo: downloading component 'rustfmt'\n  3.4 MiB /   3.4 MiB (100 %) 294.1 KiB/s in 13s ETA:  0s\ninfo: installing component 'cargo'\n  5.5 MiB /   5.5 MiB (100 %)   5.3 MiB/s in  1s ETA:  0s\ninfo: installing component 'clippy'\ninfo: installing component 'rust-docs'\n 19.3 MiB /  19.3 MiB (100 %) 851.2 KiB/s in 38s ETA:  0s\n  8 IO-ops /   8 IO-ops (100 %)   5 IOPS in  1s ETA:  0s    \ninfo: installing component 'rust-std'\n 31.6 MiB /  31.6 MiB (100 %)   5.1 MiB/s in 25s ETA:  0s\ninfo: installing component 'rustc'\n 73.1 MiB /  73.1 MiB (100 %)   4.6 MiB/s in 35s ETA:  0s\n  5 IO-ops /   5 IO-ops (100 %)   0 IOPS in  8m  2s ETA: Unknown\ninfo: installing component 'rustfmt'\n  1 IO-ops /   1 IO-ops (100 %)   0 IOPS in 10s ETA: Unknown\ninfo: default toolchain set to 'stable-aarch64-unknown-linux-gnu'\nstable-aarch64-unknown-linux-gnu installed - rustc 1.59.0 (9d1b2106e 2022-02-23)\nRust is installed now. Great!\nTo get started you may need to restart your current shell.\nThis would reload your PATH environment variable to include\nCargo's bin directory ($HOME/.cargo/bin).\nTo configure your current shell, run:\nsource $HOME/.cargo/env\nrajdeepsingh@officialrajdeepsingh:/$\n```\n\n### How to delete or uninstall the rust lang?\n\nYou can uninstall the Rust with rustup. rustup in inbuild command utility in rust lang.\n\n```\nrustup self uninstall\n\n```\n\n---\n\n### Reference\n\n> https://www.rust-lang.org/tools/install\n\n---\n\n### Conclusion\n\nI hope my article solve your problem. If you have any queries, then ask in the comment section.\n\n\n\n",
+      "html": "<p>Installation of Rust in raspberry pi 4 and Ubuntu is a very easy process for all  Linux distros. You can install Rust with one single command. So simple, you copy and paste in your terminal.</p>\n<h3>Install Rust</h3>\n<pre><code class=\"language-command\">curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh\n</code></pre>\n<p>After you paste the command in a terminal, the rust setup asks one question to start the installation rust in your distro.</p>\n<pre><code>rajdeepsingh@rajdeepsingh:/$ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh\ninfo: downloading installer\nWelcome to Rust!\n....\nCurrent installation options:\ndefault host triple: aarch64-unknown-linux-gnu\n     default toolchain: stable (default)\n               profile: default\n  modify PATH variable: yes\n1) Proceed with installation (default)\n2) Customize installation\n3) Cancel installation\n> 1\n</code></pre>\n<p>I select default rust installation in raspberry pi 4. so everything is mange by rust lang.</p>\n<h3>The rust command output</h3>\n<pre><code>rajdeepsingh@officialrajdeepsingh:/$ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh\ninfo: downloading installer\nWelcome to Rust!\nThis will download and install the official compiler for the Rust\nprogramming language, and its package manager, Cargo.\nRustup metadata and toolchains will be installed into the Rustup\nhome directory, located at:\n/home/rajdeepsingh/.rustup\nThis can be modified with the RUSTUP_HOME environment variable.\nThe Cargo home directory located at:\n/home/rajdeepsingh/.cargo\nThis can be modified with the CARGO_HOME environment variable.\nThe cargo, rustc, rustup and other commands will be added to\nCargo's bin directory, located at:\n/home/rajdeepsingh/.cargo/bin\nThis path will then be added to your PATH environment variable by\nmodifying the profile files located at:\n/home/rajdeepsingh/.profile\n  /home/rajdeepsingh/.bashrc\nYou can uninstall at any time with rustup self uninstall and\nthese changes will be reverted.\nCurrent installation options:\ndefault host triple: aarch64-unknown-linux-gnu\n     default toolchain: stable (default)\n               profile: default\n  modify PATH variable: yes\n1) Proceed with installation (default)\n2) Customize installation\n3) Cancel installation\n>1\ninfo: profile set to 'default'\ninfo: default host triple is aarch64-unknown-linux-gnu\ninfo: syncing channel updates for 'stable-aarch64-unknown-linux-gnu'\n686.2 KiB / 686.2 KiB (100 %) 170.5 KiB/s in  5s ETA:  0s\ninfo: latest update on 2022-02-24, rust version 1.59.0 (9d1b2106e 2022-02-23)\ninfo: downloading component 'cargo'\n  5.5 MiB /   5.5 MiB (100 %) 267.0 KiB/s in 23s ETA:  0s\ninfo: downloading component 'clippy'\n  2.3 MiB /   2.3 MiB (100 %) 275.9 KiB/s in 11s ETA:  0s\ninfo: downloading component 'rust-docs'\n 19.3 MiB /  19.3 MiB (100 %) 321.3 KiB/s in 59s ETA:  0s    \ninfo: downloading component 'rust-std'\n 31.6 MiB /  31.6 MiB (100 %) 540.1 KiB/s in  1m 38s ETA:  0s    \ninfo: downloading component 'rustc'\n 73.1 MiB /  73.1 MiB (100 %) 270.2 KiB/s in  4m 41s ETA:  0s    \ninfo: downloading component 'rustfmt'\n  3.4 MiB /   3.4 MiB (100 %) 294.1 KiB/s in 13s ETA:  0s\ninfo: installing component 'cargo'\n  5.5 MiB /   5.5 MiB (100 %)   5.3 MiB/s in  1s ETA:  0s\ninfo: installing component 'clippy'\ninfo: installing component 'rust-docs'\n 19.3 MiB /  19.3 MiB (100 %) 851.2 KiB/s in 38s ETA:  0s\n  8 IO-ops /   8 IO-ops (100 %)   5 IOPS in  1s ETA:  0s    \ninfo: installing component 'rust-std'\n 31.6 MiB /  31.6 MiB (100 %)   5.1 MiB/s in 25s ETA:  0s\ninfo: installing component 'rustc'\n 73.1 MiB /  73.1 MiB (100 %)   4.6 MiB/s in 35s ETA:  0s\n  5 IO-ops /   5 IO-ops (100 %)   0 IOPS in  8m  2s ETA: Unknown\ninfo: installing component 'rustfmt'\n  1 IO-ops /   1 IO-ops (100 %)   0 IOPS in 10s ETA: Unknown\ninfo: default toolchain set to 'stable-aarch64-unknown-linux-gnu'\nstable-aarch64-unknown-linux-gnu installed - rustc 1.59.0 (9d1b2106e 2022-02-23)\nRust is installed now. Great!\nTo get started you may need to restart your current shell.\nThis would reload your PATH environment variable to include\nCargo's bin directory ($HOME/.cargo/bin).\nTo configure your current shell, run:\nsource $HOME/.cargo/env\nrajdeepsingh@officialrajdeepsingh:/$\n</code></pre>\n<h3>How to delete or uninstall the rust lang?</h3>\n<p>You can uninstall the Rust with rustup. rustup in inbuild command utility in rust lang.</p>\n<pre><code>rustup self uninstall\n\n</code></pre>\n<hr>\n<h3>Reference</h3>\n<blockquote>\n<p>https://www.rust-lang.org/tools/install</p>\n</blockquote>\n<hr>\n<h3>Conclusion</h3>\n<p>I hope my article solve your problem. If you have any queries, then ask in the comment section.</p>"
+    },
+    "_id": "how-to-install-rust-language-in-raspberry-pi-4-and-ubuntu.md",
+    "_raw": {
+      "sourceFilePath": "how-to-install-rust-language-in-raspberry-pi-4-and-ubuntu.md",
+      "sourceFileName": "how-to-install-rust-language-in-raspberry-pi-4-and-ubuntu.md",
+      "sourceFileDir": ".",
+      "contentType": "markdown",
+      "flattenedPath": "how-to-install-rust-language-in-raspberry-pi-4-and-ubuntu"
+    },
+    "type": "Post"
   },
   {
     "title": "HTML Version History?",
     "date": "2020-12-24T11:13:05.000Z",
     "author": "Rajdeep Singh",
     "description": "HTML History Very Complicated. But I Try To Explain Very Easy Way.",
-    "image": "images/HTML-Version-History.jpg",
+    "slug": "html-version-history",
+    "id": 10,
+    "image": "http://localhost:3000/images/HTML-Version-History.jpg",
     "draft": false,
     "summary": "HTML History Very Complicated. But I Try To Explain Very Easy Way.",
     "tags": [
@@ -207,7 +635,7 @@
       "Who Create Html"
     ],
     "images": [
-      "images/HTML-Version-History.jpg"
+      "http://localhost:3000/images/HTML-Version-History.jpg"
     ],
     "categories": [
       "html",
@@ -228,15 +656,16 @@
       "contentType": "markdown",
       "flattenedPath": "html-version-history"
     },
-    "type": "Post",
-    "slug": "html-version-history"
+    "type": "Post"
   },
   {
     "title": "All Keyboard Shortcuts For Linux Terminal?",
     "date": "2021-01-08T08:05:57.000Z",
     "author": "Rajdeep Singh",
     "description": "Linux Keyboard Help To Enhance Your Working Speed Inside Command Tool",
-    "image": "images/Linux-Basic-Introduction--1-.png",
+    "slug": "keyboard-shortcut-keys-for-linux-terminal",
+    "id": 11,
+    "image": "http://localhost:3000/images/Linux-Basic-Introduction--1-.png",
     "draft": false,
     "summary": "Linux Keyboard Help To Enhance Your Working Speed Inside Command Tool",
     "tags": [
@@ -246,7 +675,7 @@
       "Linux Terminal"
     ],
     "images": [
-      "images/Linux-Basic-Introduction--1-.png"
+      "http://localhost:3000/images/Linux-Basic-Introduction--1-.png"
     ],
     "categories": [
       "Linux",
@@ -266,15 +695,53 @@
       "contentType": "markdown",
       "flattenedPath": "keyboard-shortcut-keys-for-linux-terminal"
     },
-    "type": "Post",
-    "slug": "keyboard-shortcut-keys-for-linux-terminal"
+    "type": "Post"
+  },
+  {
+    "title": "not write",
+    "date": "2022-03-18T17:11:14.000Z",
+    "author": "Rajdeep Singh",
+    "description": "",
+    "slug": "new-article",
+    "id": 12,
+    "image": "http://localhost:3000/images/contentlayer.png",
+    "draft": true,
+    "summary": "The neovim terminal base Linux IDE. neovim provide terminal base Code written Experience",
+    "tags": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "images": [
+      "http://localhost:3000/images/contentlayer.png"
+    ],
+    "categories": [
+      "neovim",
+      "Linux",
+      "linux editor"
+    ],
+    "body": {
+      "raw": "\nPadding ",
+      "html": "<p>Padding</p>"
+    },
+    "_id": "new-article.md",
+    "_raw": {
+      "sourceFilePath": "new-article.md",
+      "sourceFileName": "new-article.md",
+      "sourceFileDir": ".",
+      "contentType": "markdown",
+      "flattenedPath": "new-article"
+    },
+    "type": "Post"
   },
   {
     "title": "Learn the NPM outdated package command?",
     "date": "2022-04-18T11:00:00.000Z",
     "author": "Rajdeep Singh",
     "description": "Npm outdate command help to find old packages in your current project.",
-    "image": "images/npm-commands.png",
+    "slug": "npm-outdated-command",
+    "id": 13,
+    "image": "http://localhost:3000/images/npm-commands.png",
     "draft": false,
     "summary": "Npm outdate command help to find old packages in your current project.",
     "tags": [
@@ -283,7 +750,7 @@
       "Npm "
     ],
     "images": [
-      "images/npm-commands.png"
+      "http://localhost:3000/images/npm-commands.png"
     ],
     "categories": [
       "Npm"
@@ -300,15 +767,16 @@
       "contentType": "markdown",
       "flattenedPath": "npm-outdated-command"
     },
-    "type": "Post",
-    "slug": "npm-outdated-command"
+    "type": "Post"
   },
   {
     "title": "Text Highlighting In HTML 5?",
     "date": "2020-12-28T14:09:38.000Z",
     "author": "Rajdeep Singh",
     "description": "Mark tag Help to High Lighting text in HTML 5",
-    "image": "images/Text-Highlighting-In-HTML-5.png",
+    "slug": "text-highlighting-in-html-5",
+    "id": 14,
+    "image": "http://localhost:3000/images/Text-Highlighting-In-HTML-5.png",
     "draft": false,
     "summary": "Mark tag Help to High Lighting text in HTML 5 ",
     "tags": [
@@ -320,7 +788,7 @@
       "html for beginner"
     ],
     "images": [
-      "images/Text-Highlighting-In-HTML-5.png"
+      "http://localhost:3000/images/Text-Highlighting-In-HTML-5.png"
     ],
     "categories": [
       "html",
@@ -342,15 +810,16 @@
       "contentType": "markdown",
       "flattenedPath": "text-highlighting-in-html-5"
     },
-    "type": "Post",
-    "slug": "text-highlighting-in-html-5"
+    "type": "Post"
   },
   {
     "title": "Title tag In HTML 5?",
     "date": "2020-12-25T10:09:58.000Z",
     "author": "Rajdeep Singh",
     "description": "Title tag display page information in the browser toolbar.",
-    "image": "images/Title-tag-In-HTML-5.jpg",
+    "slug": "title-tag-in-html-5",
+    "id": 15,
+    "image": "http://localhost:3000/images/Title-tag-In-HTML-5.jpg",
     "draft": false,
     "summary": "Title tag display page information in the browser toolbar.",
     "tags": [
@@ -362,7 +831,7 @@
       "html title tag"
     ],
     "images": [
-      "images/Title-tag-In-HTML-5.jpg"
+      "http://localhost:3000/images/Title-tag-In-HTML-5.jpg"
     ],
     "categories": [
       "html",
@@ -384,15 +853,16 @@
       "contentType": "markdown",
       "flattenedPath": "title-tag-in-html-5"
     },
-    "type": "Post",
-    "slug": "title-tag-in-html-5"
+    "type": "Post"
   },
   {
     "title": "What is Next.js?",
     "date": "2020-11-08T13:10:48.000Z",
     "author": "Rajdeep Singh",
     "description": "Basic Introduction About Next.js #SeriesStart",
-    "image": "images/next.js.png",
+    "slug": "what-is-next-js",
+    "id": 16,
+    "image": "http://localhost:3000/images/next.js.png",
     "draft": false,
     "summary": "Basic Introduction About Next.js #SeriesStart",
     "tags": [
@@ -405,7 +875,7 @@
       "Next.js Framework"
     ],
     "images": [
-      "images/next.js.png"
+      "http://localhost:3000/images/next.js.png"
     ],
     "categories": [
       "Next.js",
@@ -428,7 +898,6 @@
       "contentType": "markdown",
       "flattenedPath": "what-is-next-js"
     },
-    "type": "Post",
-    "slug": "what-is-next-js"
+    "type": "Post"
   }
 ]

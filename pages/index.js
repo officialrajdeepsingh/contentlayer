@@ -1,17 +1,17 @@
 import { NextSeo } from 'next-seo';
-import fs from 'fs'
 import Post from '../components/Post'
 import Banner from "../components/Banner";
 import Sidebar from "../components/Sidebar"
-import { sortByDate, slugify, ImageUrl } from '../utils'
-
+import { sortByDate, slugify, ImageUrl,pageCount } from '../utils'
 import { allPosts } from "contentlayer/generated";
 import { pick } from "@contentlayer/client";
+import Pagnation from '../components/Pagnation';
+import { show_per_page } from "../config"
 
-export default function Home({ posts }) {
+export default function Home({ posts,totalPostCount }) {
 
   return (
-    <div>
+    <>
       <NextSeo
         title="Welcome to my blog home page"
         description="Build nextjs blog website with Markdown, sitemap, serachbar, category, tag and SEO support"
@@ -44,42 +44,46 @@ export default function Home({ posts }) {
 
         </div>
       </div>
-    </div>
+      <Pagnation pages={totalPostCount}/>
+
+    </>
   )
 }
 
 // fetch all posts 
 export async function getStaticProps() {
 
-  const posts = allPosts.map((post) => pick(post, ["title", "date", "slug", "description", "summary", "draft", "image", "images", "tags", "categories"]));
 
- // filter publish posts
-  const publish= posts.filter(
-    (post, i) =>{
-      return post.draft===false
+  const posts = allPosts.map((post) => pick(post, ["title", "date", "slug", "description", "summary", "draft", "image", "images", "tags", "categories","id"]));
+
+
+
+  let postSortByDate = posts.sort(sortByDate)
+
+
+ 
+
+
+  // filter publish posts
+  const publish = postSortByDate.filter(
+    (post, i) => {
+      return post.draft === false
     }
   )
- 
-  /*
-    // serach functionalty 
-    // convert data into string
-  */
-  
-    const jsonString = JSON.stringify(publish)
 
-    //  create serach.json file in root level
-    fs.writeFileSync('./search.json', jsonString, err => {
-      
-      if (err) {
-          console.log('Error writing file', err)
-      } else {
-          console.log('Successfully wrote file')
-      }
-  })
+  // count how many pages
+
+  let totalPostCount = pageCount(allPosts.length)
+
+//  get only  ten post
+  let totalPosts = publish.slice(0, show_per_page)
+
+
 
   return {
     props: {
-      posts: publish.sort(sortByDate),
+      posts: totalPosts,
+      totalPostCount
     },
   }
 

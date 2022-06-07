@@ -3,7 +3,9 @@
   "date": "2020-11-08T13:10:48.000Z",
   "author": "Rajdeep Singh",
   "description": "Basic Introduction About Next.js #SeriesStart",
-  "image": "images/next.js.png",
+  "slug": "what-is-next-js",
+  "id": 16,
+  "image": "http://localhost:3000/images/next.js.png",
   "draft": false,
   "summary": "Basic Introduction About Next.js #SeriesStart",
   "tags": [
@@ -16,7 +18,7 @@
     "Next.js Framework"
   ],
   "images": [
-    "images/next.js.png"
+    "http://localhost:3000/images/next.js.png"
   ],
   "categories": [
     "Next.js",
@@ -39,6 +41,5 @@
     "contentType": "markdown",
     "flattenedPath": "what-is-next-js"
   },
-  "type": "Post",
-  "slug": "what-is-next-js"
+  "type": "Post"
 }

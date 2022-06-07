@@ -3,7 +3,9 @@
   "date": "2020-12-28T14:09:38.000Z",
   "author": "Rajdeep Singh",
   "description": "Mark tag Help to High Lighting text in HTML 5",
-  "image": "images/Text-Highlighting-In-HTML-5.png",
+  "slug": "text-highlighting-in-html-5",
+  "id": 14,
+  "image": "http://localhost:3000/images/Text-Highlighting-In-HTML-5.png",
   "draft": false,
   "summary": "Mark tag Help to High Lighting text in HTML 5 ",
   "tags": [
@@ -15,7 +17,7 @@
     "html for beginner"
   ],
   "images": [
-    "images/Text-Highlighting-In-HTML-5.png"
+    "http://localhost:3000/images/Text-Highlighting-In-HTML-5.png"
   ],
   "categories": [
     "html",
@@ -37,6 +39,5 @@
     "contentType": "markdown",
     "flattenedPath": "text-highlighting-in-html-5"
   },
-  "type": "Post",
-  "slug": "text-highlighting-in-html-5"
+  "type": "Post"
 }

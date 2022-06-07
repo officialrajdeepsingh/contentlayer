@@ -18,7 +18,9 @@ export type Post = {
   date: string
   author: string
   description: string
-  image: string
+  slug?: string | undefined
+  id: number
+  image?: string | undefined
   draft: string
   summary: string
   tags?: Tag[] | undefined
@@ -44,7 +46,7 @@ export type Images = {
   _id: string
   _raw: Local.RawDocumentData
   type: 'Images'
-  title: string
+  title?: string | undefined
 
 }
 

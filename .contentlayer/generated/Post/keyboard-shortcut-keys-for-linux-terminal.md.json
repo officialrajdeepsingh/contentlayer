@@ -3,7 +3,9 @@
   "date": "2021-01-08T08:05:57.000Z",
   "author": "Rajdeep Singh",
   "description": "Linux Keyboard Help To Enhance Your Working Speed Inside Command Tool",
-  "image": "images/Linux-Basic-Introduction--1-.png",
+  "slug": "keyboard-shortcut-keys-for-linux-terminal",
+  "id": 11,
+  "image": "http://localhost:3000/images/Linux-Basic-Introduction--1-.png",
   "draft": false,
   "summary": "Linux Keyboard Help To Enhance Your Working Speed Inside Command Tool",
   "tags": [
@@ -13,7 +15,7 @@
     "Linux Terminal"
   ],
   "images": [
-    "images/Linux-Basic-Introduction--1-.png"
+    "http://localhost:3000/images/Linux-Basic-Introduction--1-.png"
   ],
   "categories": [
     "Linux",
@@ -33,6 +35,5 @@
     "contentType": "markdown",
     "flattenedPath": "keyboard-shortcut-keys-for-linux-terminal"
   },
-  "type": "Post",
-  "slug": "keyboard-shortcut-keys-for-linux-terminal"
+  "type": "Post"
 }

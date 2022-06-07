@@ -3,14 +3,16 @@
   "date": "2021-10-11T10:41:36.000Z",
   "author": "Rajdeep Singh",
   "description": "",
-  "image": "",
+  "slug": "how-to-add-search-bar-functionality-in-ghost-cms-help-of-searchinghost",
+  "id": 3,
+  "image": "http://localhost:3000/images/next.js-add-css-code.jpg",
   "draft": true,
   "summary": "How to Add Search bar functionality in Ghost Cms Help of SearchinGhost",
   "tags": [
     "Ghost CMS"
   ],
   "images": [
-    "images/next.js-add-css-code.jpg"
+    "http://localhost:3000/images/next.js-add-css-code.jpg"
   ],
   "categories": [
     "Ghost CMS"
@@ -27,6 +29,5 @@
     "contentType": "markdown",
     "flattenedPath": "how-to-add-search-bar-functionality-in-ghost-cms-help-of-searchinghost"
   },
-  "type": "Post",
-  "slug": "how-to-add-search-bar-functionality-in-ghost-cms-help-of-searchinghost"
+  "type": "Post"
 }

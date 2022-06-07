@@ -3,12 +3,13 @@ author : "Rajdeep Singh"
 categories : ["npm", "npm-cli", "npm install command"]
 date : "2022-03-20T13:09:24Z"
 description : "Npm install command help to install package from npmjs.org"
-image : "images/npm-init-command-1.png"
-images : ["images/npm-init-command-1.png"]
+image : "http://localhost:3000/images/npm-init-command-1.png"
+images : ["http://localhost:3000/images/npm-init-command-1.png"]
 summary : "Npm install command help to install package from npmjs.org"
 tags : ["npm", "npm-cli", "npm install command"]
 title : "What is the npm install command?"
 draft : false
+id: 1
 ---
 
 Npm, install command help to install dependencies and devDependencies base on package.json and package-lock.json file.

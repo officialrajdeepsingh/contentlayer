@@ -3,7 +3,9 @@
   "date": "2022-03-20T13:09:24.000Z",
   "author": "Rajdeep Singh",
   "description": "Npm install command help to install package from npmjs.org",
-  "image": "images/npm-init-command-1.png",
+  "slug": "how-is-npm-install-command",
+  "id": 1,
+  "image": "http://localhost:3000/images/npm-init-command-1.png",
   "draft": false,
   "summary": "Npm install command help to install package from npmjs.org",
   "tags": [
@@ -12,7 +14,7 @@
     "npm install command"
   ],
   "images": [
-    "images/npm-init-command-1.png"
+    "http://localhost:3000/images/npm-init-command-1.png"
   ],
   "categories": [
     "npm",
@@ -31,6 +33,5 @@
     "contentType": "markdown",
     "flattenedPath": "how-is-npm-install-command"
   },
-  "type": "Post",
-  "slug": "how-is-npm-install-command"
+  "type": "Post"
 }

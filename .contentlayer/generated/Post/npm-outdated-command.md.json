@@ -3,7 +3,9 @@
   "date": "2022-04-18T11:00:00.000Z",
   "author": "Rajdeep Singh",
   "description": "Npm outdate command help to find old packages in your current project.",
-  "image": "images/npm-commands.png",
+  "slug": "npm-outdated-command",
+  "id": 13,
+  "image": "http://localhost:3000/images/npm-commands.png",
   "draft": false,
   "summary": "Npm outdate command help to find old packages in your current project.",
   "tags": [
@@ -12,7 +14,7 @@
     "Npm "
   ],
   "images": [
-    "images/npm-commands.png"
+    "http://localhost:3000/images/npm-commands.png"
   ],
   "categories": [
     "Npm"
@@ -29,6 +31,5 @@
     "contentType": "markdown",
     "flattenedPath": "npm-outdated-command"
   },
-  "type": "Post",
-  "slug": "npm-outdated-command"
+  "type": "Post"
 }

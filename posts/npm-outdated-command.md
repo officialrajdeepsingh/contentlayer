@@ -3,12 +3,13 @@ author : "Rajdeep Singh"
 categories : ["Npm"]
 date : "2022-04-18T11:00:00Z"
 description : "Npm outdate command help to find old packages in your current project."
-image : "images/npm-commands.png"
-images : ["images/npm-commands.png"]
+image : "http://localhost:3000/images/npm-commands.png"
+images : ["http://localhost:3000/images/npm-commands.png"]
 summary : "Npm outdate command help to find old packages in your current project."
 tags : ["Npm command", "NPM CLI", "Npm "]
 title : "Learn the NPM outdated package command?"
 draft : false
+id: 13
 ---
 
 Npm outdated command print the list of the outdated package in your project. In the project, there are a lot of packages to check which are outdated.

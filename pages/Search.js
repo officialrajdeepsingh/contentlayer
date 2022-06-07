@@ -1,16 +1,17 @@
-import Head from 'next/head'
 import Post from '../components/Post'
 import Banner from "../components/Banner";
-import search from "../search.json";
+// import search from "../search.json";
 import { useRouter } from 'next/router'
 import { NextSeo } from 'next-seo';
 import { ImageUrl } from '../utils'
+import { allPosts } from "contentlayer/generated";
+
 
 export default function Search() {
     const { query } = useRouter()
-    const TempPosts = []
+    const TempPosts = []    
 
-    search.map(
+    allPosts.map(
         (post) => {
             if (post.draft === false) {
                 if (post.title.toLowerCase().includes(query.q) || post.summary.toLowerCase().includes(query.q) || post.description.toLowerCase().includes(query.q)) {

@@ -3,7 +3,9 @@
   "date": "2020-12-25T10:09:58.000Z",
   "author": "Rajdeep Singh",
   "description": "Title tag display page information in the browser toolbar.",
-  "image": "images/Title-tag-In-HTML-5.jpg",
+  "slug": "title-tag-in-html-5",
+  "id": 15,
+  "image": "http://localhost:3000/images/Title-tag-In-HTML-5.jpg",
   "draft": false,
   "summary": "Title tag display page information in the browser toolbar.",
   "tags": [
@@ -15,7 +17,7 @@
     "html title tag"
   ],
   "images": [
-    "images/Title-tag-In-HTML-5.jpg"
+    "http://localhost:3000/images/Title-tag-In-HTML-5.jpg"
   ],
   "categories": [
     "html",
@@ -37,6 +39,5 @@
     "contentType": "markdown",
     "flattenedPath": "title-tag-in-html-5"
   },
-  "type": "Post",
-  "slug": "title-tag-in-html-5"
+  "type": "Post"
 }

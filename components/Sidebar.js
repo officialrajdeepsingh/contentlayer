@@ -1,8 +1,7 @@
 import { useState} from "react";
 import Link from 'next/link'
-import Search from "../search.json";
 import { slugify } from "../utils";
-
+import { allPosts } from "contentlayer/generated";
 export default function Sidebar() {
   const [search, setSearch]= useState()
   function findSerach(value) {
@@ -33,7 +32,7 @@ export default function Sidebar() {
               <ul className="list-unstyled mb-0">
                
                {
-                  Search?.map(
+                  allPosts?.map(
                     post => {
                       return post.categories.map(
                       item => {

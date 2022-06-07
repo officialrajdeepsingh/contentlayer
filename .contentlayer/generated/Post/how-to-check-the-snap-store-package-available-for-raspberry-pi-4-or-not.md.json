@@ -3,7 +3,9 @@
   "date": "2022-03-26T07:50:39.000Z",
   "author": "Rajdeep Singh",
   "description": "You can easily check the raspberry pi binary in the snap store without the command line and code.",
-  "image": "images/the-snap-store.png",
+  "slug": "how-to-check-the-snap-store-package-available-for-raspberry-pi-4-or-not",
+  "id": 5,
+  "image": "http://localhost:3000/images/the-snap-store.png",
   "draft": false,
   "summary": "You can easily check the raspberry pi binary in the snap store without the command line and code.",
   "tags": [
@@ -14,7 +16,7 @@
     "Binary"
   ],
   "images": [
-    "images/the-snap-store.png"
+    "http://localhost:3000/images/the-snap-store.png"
   ],
   "categories": [
     "Raspberry pi 4",
@@ -35,6 +37,5 @@
     "contentType": "markdown",
     "flattenedPath": "how-to-check-the-snap-store-package-available-for-raspberry-pi-4-or-not"
   },
-  "type": "Post",
-  "slug": "how-to-check-the-snap-store-package-available-for-raspberry-pi-4-or-not"
+  "type": "Post"
 }

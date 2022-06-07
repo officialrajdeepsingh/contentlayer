@@ -24,6 +24,7 @@ export default function Post({ post }) {
                     }
                   )
                 } </div>
+        <h5 className="card-title my-2">Post unique Id: {post.id}</h5>
         <h2 className="card-title">{post.title}</h2>
         <p className="card-text">{post.summary}</p>
         <Link href={`/blog/${post.slug}`}>
