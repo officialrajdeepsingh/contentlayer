@@ -11,4 +11,7 @@ In nextjs we provide sitemap, SEO, pagination and Search support.
 change your ` localhost:3000 ` url in `./config.js` url and as well `show_per_page` post number on blog.
 
 
-Aricle  list
+### Aricle  list for more learning
+1. https://medium.com/nextjs/how-to-install-contentlayer-in-nextjs-4a08fb37c87d
+2. https://medium.com/nextjs/how-to-build-the-static-blog-with-content-layer-markdown-and-nextjs-29f6ac93d06
+3. 
