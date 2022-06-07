@@ -4,8 +4,8 @@ categories : ["Raspberry", "Raspberry pi 4", "ras pi", "pycharm", "pycharm in ra
 date : "2021-01-20T07:10:27Z"
 description : ""
 draft : false
-image : "http://localhost:3000/images/How-to-install-pycharm-in-raspi-4.png"
-images : ["http://localhost:3000/images/How-to-install-pycharm-in-raspi-4.png"]
+image : "https://contentlayer-iota.vercel.app/images/How-to-install-pycharm-in-raspi-4.png"
+images : ["https://contentlayer-iota.vercel.app/images/How-to-install-pycharm-in-raspi-4.png"]
 slug : "how-to-install-pycharm-in-raspi-4"
 summary : "Pycharm is an IDE used for python programming. pycharm develop by JetBrains."
 tags : ["Raspberry", "Raspberry pi 4", "ras pi", "pycharm", "pycharm in raspi", "install pycharm"]

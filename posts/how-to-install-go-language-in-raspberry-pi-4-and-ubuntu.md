@@ -4,8 +4,8 @@ categories : ["go language", "Linux", "Raspberry pi 4", "Ubuntu", "install go la
 date : "2022-03-15T10:59:50Z"
 description : ""
 draft : false
-image : "http://localhost:3000/images/install-go-langauge.png"
-images : [ "http://localhost:3000/images/install-go-langauge.png"]
+image : "https://contentlayer-iota.vercel.app/images/install-go-langauge.png"
+images : [ "https://contentlayer-iota.vercel.app/images/install-go-langauge.png"]
 slug : "how-to-install-go-language-in-raspberry-pi-4-and-ubuntu"
 summary : "Go language is a low-level language developed by Google.  You can install go language in ubuntu and raspberry pi with one command."
 tags : ["go language", "Linux", "Raspberry pi 4", "Ubuntu", "install go language"]

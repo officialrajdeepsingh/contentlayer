@@ -4,8 +4,8 @@ categories : ["html", "html 5", "html tutorial", "Text Highlighting", "text high
 date : "2020-12-28T14:09:38Z"
 description : "Mark tag Help to High Lighting text in HTML 5"
 draft : false
-image : "http://localhost:3000/images/Text-Highlighting-In-HTML-5.png"
-images : ["http://localhost:3000/images/Text-Highlighting-In-HTML-5.png"]
+image : "https://contentlayer-iota.vercel.app/images/Text-Highlighting-In-HTML-5.png"
+images : ["https://contentlayer-iota.vercel.app/images/Text-Highlighting-In-HTML-5.png"]
 summary : "Mark tag Help to High Lighting text in HTML 5 "
 tags : ["html", "html 5", "html tutorial", "Text Highlighting", "text highlighting in html", "html for beginner"]
 title : "Text Highlighting In HTML 5?"

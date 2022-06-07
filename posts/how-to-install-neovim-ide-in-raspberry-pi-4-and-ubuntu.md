@@ -3,8 +3,8 @@ author : "Rajdeep Singh"
 date : "2022-03-18T17:11:14Z"
 description : ""
 draft : false
-image : "http://localhost:3000/images/install--neovim.png"
-images : ["http://localhost:3000/images/install--neovim.png"]
+image : "https://contentlayer-iota.vercel.app/images/install--neovim.png"
+images : ["https://contentlayer-iota.vercel.app/images/install--neovim.png"]
 slug : "how-to-install-neovim-ide-in-raspberry-pi-4-and-ubuntu"
 summary : "The neovim terminal base Linux IDE. neovim provide terminal base Code written Experience"
 title : "How to install neovim IDE in Raspberry pi 4 and Ubuntu?"

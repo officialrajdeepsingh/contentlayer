@@ -75,7 +75,7 @@ npm run dev
 
 ```
 
-****Now**** Visit this ****URL**** in ****your browser**** [http://localhost:3000/](http://localhost:3000/). ****your webserver**** Now Work 😃
+****Now**** Visit this ****URL**** in ****your browser**** [https://contentlayer-iota.vercel.app/](http://localhost:3000/). ****your webserver**** Now Work 😃
 
 ---
 

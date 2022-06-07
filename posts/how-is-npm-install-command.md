@@ -3,8 +3,8 @@ author : "Rajdeep Singh"
 categories : ["npm", "npm-cli", "npm install command"]
 date : "2022-03-20T13:09:24Z"
 description : "Npm install command help to install package from npmjs.org"
-image : "http://localhost:3000/images/npm-init-command-1.png"
-images : ["http://localhost:3000/images/npm-init-command-1.png"]
+image : "https://contentlayer-iota.vercel.app/images/npm-init-command-1.png"
+images : ["https://contentlayer-iota.vercel.app/images/npm-init-command-1.png"]
 summary : "Npm install command help to install package from npmjs.org"
 tags : ["npm", "npm-cli", "npm install command"]
 title : "What is the npm install command?"

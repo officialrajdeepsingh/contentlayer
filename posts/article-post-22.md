@@ -9,8 +9,8 @@ title : "Article post 22"
 tags : ["neovim", "Linux", "linux editor"]
 categories :  ["neovim", "Linux", "linux editor"]
 id: 23
-image : "http://localhost:3000/images/contentlayer.png"
-images :  ["http://localhost:3000/images/contentlayer.png"]
+image : "https://contentlayer-iota.vercel.app/images/contentlayer.png"
+images :  ["https://contentlayer-iota.vercel.app/images/contentlayer.png"]
 ---
 
 article post 22

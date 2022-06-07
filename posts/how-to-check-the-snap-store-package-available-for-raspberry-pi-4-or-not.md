@@ -4,8 +4,8 @@ categories : ["Raspberry pi 4", "snapcraft", "Snap store", "Linux", "Binary"]
 date : "2022-03-26T07:50:39Z"
 description : "You can easily check the raspberry pi binary in the snap store without the command line and code."
 draft : false
-image : "http://localhost:3000/images/the-snap-store.png"
-images : ["http://localhost:3000/images/the-snap-store.png"]
+image : "https://contentlayer-iota.vercel.app/images/the-snap-store.png"
+images : ["https://contentlayer-iota.vercel.app/images/the-snap-store.png"]
 summary : "You can easily check the raspberry pi binary in the snap store without the command line and code."
 tags : ["Raspberry pi 4", "snapcraft", "Snap store", "Linux", "Binary"]
 title : "How to check the snap store package available for raspberry pi 4 or not?"
@@ -40,20 +40,20 @@ Firstly, you click on **the version drop-down list** and click again to **show t
 
 ### First step
 
-![version drop-down list](http://localhost:3000/images/firstway.png)
+![version drop-down list](https://contentlayer-iota.vercel.app/images/firstway.png)
 
 
 
 ### Second step
 
-![show architecture drop-down list](http://localhost:3000/images/firstway-2.png)
+![show architecture drop-down list](https://contentlayer-iota.vercel.app/images/firstway-2.png)
 
 
 ## Second way
 
 In a second way, you scroll down the page, go to the Linux distribution section, and check all the Linux distributions.
 
-![Linux distribution section](http://localhost:3000/images/secondway.png)
+![Linux distribution section](https://contentlayer-iota.vercel.app/images/secondway.png)
 
 
 ---
