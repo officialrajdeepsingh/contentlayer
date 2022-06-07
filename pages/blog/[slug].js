@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { slugify, ImageUrl } from '../../utils'
+import { slugify } from '../../utils'
 import { NextSeo } from 'next-seo';
 
 import { allPosts } from "contentlayer/generated";
@@ -8,9 +8,8 @@ export default function PostPage({ post }) {
   const date = new Date(post.date)
   const imageMeta= post.images.map(
       image  =>  {
-       const imageUrl =  ImageUrl(image)
         return {
-        url: imageUrl,
+        url: image,
         width: 1224,
         height: 724,
         alt: post.title,
