@@ -32,4 +32,4 @@ export default SITE_URL
 ### Aricle  list for more learning
 1. https://medium.com/nextjs/how-to-install-contentlayer-in-nextjs-4a08fb37c87d
 2. https://medium.com/nextjs/how-to-build-the-static-blog-with-content-layer-markdown-and-nextjs-29f6ac93d06
-3. 
+3. https://medium.com/nextjs/how-to-create-pagination-with-a-contentlayer-in-next-js-d2d80bb0a3d5
