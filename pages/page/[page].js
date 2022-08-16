@@ -36,7 +36,7 @@ export default function Home({ posts,totalPostCount }) {
       <div className="container">
         <div className="row">
           <div className="col-lg-8">
-            {posts.map(post => (
+            {JSON.parse(posts).map(post => (
               <Post key={post.slug} post={post} />
             ))}
           </div>
@@ -51,10 +51,10 @@ export default function Home({ posts,totalPostCount }) {
   )
 }
 
-export async function getStaticPaths(props) {
+export async function getStaticPaths() {
 
  //  help of pick get require filter value
-  const posts = allPosts.map((post) => pick(post, ["title", "date", "slug", "description", "draft", "image", "images", "tags", "categories"]));
+  // const posts = allPosts.map((post) => pick(post, ["title", "date", "slug", "description", "draft", "image", "tags", "categories"]));
 
  
   // count how many pages
@@ -128,7 +128,7 @@ if (Number(params.page) >  2) {
 
 return {
     props: {
-      posts: totalPosts,
+      posts: JSON.stringify(totalPosts) ,
       totalPostCount
     },
   }
