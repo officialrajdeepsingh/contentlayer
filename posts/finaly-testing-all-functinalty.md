@@ -6,7 +6,7 @@ categories:
   - testing
 date: 2022-08-16T14:21:07.718Z
 description: Finally every thing is fine
-image: public/images/contentlayer.png
+image: /images/contentlayer.png
 tags:
   - Blog
   - written
