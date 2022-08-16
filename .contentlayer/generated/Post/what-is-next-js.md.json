@@ -5,7 +5,7 @@
   "description": "Basic Introduction About Next.js #SeriesStart",
   "slug": "what-is-next-js",
   "id": 16,
-  "image": "http://localhost:3000/images/next.js.png",
+  "image": "https://contentlayer-iota.vercel.app/images/next.js.png",
   "draft": false,
   "summary": "Basic Introduction About Next.js #SeriesStart",
   "tags": [
@@ -18,7 +18,7 @@
     "Next.js Framework"
   ],
   "images": [
-    "http://localhost:3000/images/next.js.png"
+    "https://contentlayer-iota.vercel.app/images/next.js.png"
   ],
   "categories": [
     "Next.js",

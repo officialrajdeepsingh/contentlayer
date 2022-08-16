@@ -44,24 +44,21 @@ export default function Home({ posts,totalPostCount }) {
 
         </div>
       </div>
-      <Pagnation pages={totalPostCount}/>
+      <Pagnation totalPostCount={totalPostCount}/>
 
     </>
   )
 }
 
-// fetch all posts 
+// fetch first ten posts 
 export async function getStaticProps() {
 
-
+//  help of pick get require filter value
   const posts = allPosts.map((post) => pick(post, ["title", "date", "slug", "description", "summary", "draft", "image", "images", "tags", "categories","id"]));
 
 
-
+// sort article base on  date
   let postSortByDate = posts.sort(sortByDate)
-
-
- 
 
 
   // filter publish posts
@@ -72,10 +69,9 @@ export async function getStaticProps() {
   )
 
   // count how many pages
-
   let totalPostCount = pageCount(allPosts.length)
 
-//  get only  ten post
+//  get only first ten post
   let totalPosts = publish.slice(0, show_per_page)
 
 

@@ -2,18 +2,18 @@ import React from 'react'
 import Link from "next/link";
 import { useRouter } from "next/router";
 
-function Pagnation({pages}) {
+function Pagnation({totalPostCount}) {
  let router = useRouter()
 
 /*
- pages give number,base on never we create a array. base on array we create a list elements
- pages= 3
+ pages give number,base on number we create a array. base on array we map a list elements
+ totalPostCount = 3
  conver into array [0,1,2]
  base on array create list in array
  
 */
 
-  let pageIntoArray = Array.from(Array(pages).keys())
+  let pageIntoArray = Array.from(Array(totalPostCount).keys())
   
 
   return (
