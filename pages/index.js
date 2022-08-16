@@ -2,7 +2,7 @@ import { NextSeo } from 'next-seo';
 import Post from '../components/Post'
 import Banner from "../components/Banner";
 import Sidebar from "../components/Sidebar"
-import { sortByDate, slugify, ImageUrl,pageCount } from '../utils'
+import { sortByDate, ImageUrl,pageCount } from '../utils'
 import { allPosts } from "contentlayer/generated";
 import { pick } from "@contentlayer/client";
 import Pagnation from '../components/Pagnation';
@@ -35,9 +35,10 @@ export default function Home({ posts,totalPostCount }) {
       <div className="container">
         <div className="row">
           <div className="col-lg-8">
-            {posts.map(post => (
-              <Post key={post.slug} post={post} />
-            ))}
+            {posts.map(post => {
+              return <Post key={post.slug} post={post} />
+            }
+            )}
           </div>
 
           <Sidebar />
@@ -54,7 +55,7 @@ export default function Home({ posts,totalPostCount }) {
 export async function getStaticProps() {
 
 //  help of pick get require filter value
-  const posts = allPosts.map((post) => pick(post, ["title", "date", "slug", "description", "summary", "draft", "image", "images", "tags", "categories","id"]));
+  const posts = allPosts.map((post) => pick(post, ["title", "date", "slug", "description", "draft", "image", "tags", "categories"]));
 
 
 // sort article base on  date

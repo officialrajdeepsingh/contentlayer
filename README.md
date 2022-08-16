@@ -10,6 +10,24 @@ In nextjs we provide sitemap, SEO, pagination and Search support.
 ## Note 
 change your ` localhost:3000 ` url in `./config.js` url and as well `show_per_page` post number on blog.
 
+```javascript
+// config.js
+
+const SITE_URL= 'https://ephemeral-rolypoly-2f9988.netlify.app'
+
+or
+
+const SITE_URL= 'http://localhost:3000'
+
+// const SITE_URL = process.env.SITE_URL  // it is not working properly
+
+export const show_per_page = 10
+
+export default SITE_URL
+
+```
+
+
 
 ### Aricle  list for more learning
 1. https://medium.com/nextjs/how-to-install-contentlayer-in-nextjs-4a08fb37c87d

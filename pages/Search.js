@@ -3,7 +3,7 @@ import Banner from "../components/Banner";
 import { useRouter } from 'next/router'
 import { NextSeo } from 'next-seo';
 import { allPosts } from "contentlayer/generated";
-import { slugify, ImageUrl } from '../utils'
+import { ImageUrl } from '../utils'
 
 
 export default function Search() {
@@ -13,7 +13,7 @@ export default function Search() {
     allPosts.map(
         (post) => {
             if (post.draft === false) {
-                if (post.title.toLowerCase().includes(query.q) || post.summary.toLowerCase().includes(query.q) || post.description.toLowerCase().includes(query.q)) {
+                if (post.title.toLowerCase().includes(query.q) || post.description.toLowerCase().includes(query.q)) {
                     TempPosts.push(post)
                 } else {
                     TempPosts.push(null)

@@ -4,9 +4,7 @@ categories : ["Linux", "Keyboard Shortcut", "Shortcut keys", "Linux Terminal"]
 date : "2021-01-08T08:05:57Z"
 description : "Linux Keyboard Help To Enhance Your Working Speed Inside Command Tool"
 draft : false
-image : "https://contentlayer-iota.vercel.app/images/Linux-Basic-Introduction--1-.png"
-images : ["https://contentlayer-iota.vercel.app/images/Linux-Basic-Introduction--1-.png"]
-summary : "Linux Keyboard Help To Enhance Your Working Speed Inside Command Tool"
+image : "/images/Linux-Basic-Introduction--1-.png"
 tags : ["Linux", "Keyboard Shortcut", "Shortcut keys", "Linux Terminal"]
 title : "All Keyboard Shortcuts For Linux Terminal?"
 id: 11

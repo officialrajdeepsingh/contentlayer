@@ -7,6 +7,7 @@ import articlePost_19Md from './article-post-19.md.json' assert { type: 'json' }
 import articlePost_20Md from './article-post-20.md.json' assert { type: 'json' }
 import articlePost_21Md from './article-post-21.md.json' assert { type: 'json' }
 import articlePost_22Md from './article-post-22.md.json' assert { type: 'json' }
+import firstArticleIsHereHowAreYouMd from './first-article-is-here-how-are-you.md.json' assert { type: 'json' }
 import howIsNpmInstallCommandMd from './how-is-npm-install-command.md.json' assert { type: 'json' }
 import howToAddCssInNextJsMd from './how-to-add-css-in-next-js.md.json' assert { type: 'json' }
 import howToAddSearchBarFunctionalityInGhostCmsHelpOfSearchinghostMd from './how-to-add-search-bar-functionality-in-ghost-cms-help-of-searchinghost.md.json' assert { type: 'json' }
@@ -24,4 +25,4 @@ import textHighlightingInHtml_5Md from './text-highlighting-in-html-5.md.json' a
 import titleTagInHtml_5Md from './title-tag-in-html-5.md.json' assert { type: 'json' }
 import whatIsNextJsMd from './what-is-next-js.md.json' assert { type: 'json' }
 
-export const allPosts = [articlePost_16Md, articlePost_17Md, articlePost_18Md, articlePost_19Md, articlePost_20Md, articlePost_21Md, articlePost_22Md, howIsNpmInstallCommandMd, howToAddCssInNextJsMd, howToAddSearchBarFunctionalityInGhostCmsHelpOfSearchinghostMd, howToCaptureScreenshotsInRaspberryPi_4Md, howToCheckTheSnapStorePackageAvailableForRaspberryPi_4OrNotMd, howToInstallGoLanguageInRaspberryPi_4AndUbuntuMd, howToInstallNeovimIdeInRaspberryPi_4AndUbuntuMd, howToInstallPycharmInRaspi_4Md, howToInstallRustLanguageInRaspberryPi_4AndUbuntuMd, htmlVersionHistoryMd, keyboardShortcutKeysForLinuxTerminalMd, newArticleMd, npmOutdatedCommandMd, textHighlightingInHtml_5Md, titleTagInHtml_5Md, whatIsNextJsMd]
+export const allPosts = [articlePost_16Md, articlePost_17Md, articlePost_18Md, articlePost_19Md, articlePost_20Md, articlePost_21Md, articlePost_22Md, firstArticleIsHereHowAreYouMd, howIsNpmInstallCommandMd, howToAddCssInNextJsMd, howToAddSearchBarFunctionalityInGhostCmsHelpOfSearchinghostMd, howToCaptureScreenshotsInRaspberryPi_4Md, howToCheckTheSnapStorePackageAvailableForRaspberryPi_4OrNotMd, howToInstallGoLanguageInRaspberryPi_4AndUbuntuMd, howToInstallNeovimIdeInRaspberryPi_4AndUbuntuMd, howToInstallPycharmInRaspi_4Md, howToInstallRustLanguageInRaspberryPi_4AndUbuntuMd, htmlVersionHistoryMd, keyboardShortcutKeysForLinuxTerminalMd, newArticleMd, npmOutdatedCommandMd, textHighlightingInHtml_5Md, titleTagInHtml_5Md, whatIsNextJsMd]

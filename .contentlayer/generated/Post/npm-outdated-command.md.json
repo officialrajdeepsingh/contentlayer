@@ -5,16 +5,12 @@
   "description": "Npm outdate command help to find old packages in your current project.",
   "slug": "npm-outdated-command",
   "id": 13,
-  "image": "https://contentlayer-iota.vercel.app/images/npm-commands.png",
+  "image": "/images/npm-commands.png",
   "draft": false,
-  "summary": "Npm outdate command help to find old packages in your current project.",
   "tags": [
     "Npm command",
     "NPM CLI",
     "Npm "
-  ],
-  "images": [
-    "https://contentlayer-iota.vercel.app/images/npm-commands.png"
   ],
   "categories": [
     "Npm"

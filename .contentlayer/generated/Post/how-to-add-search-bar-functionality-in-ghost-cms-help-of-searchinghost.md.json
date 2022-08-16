@@ -5,14 +5,10 @@
   "description": "",
   "slug": "how-to-add-search-bar-functionality-in-ghost-cms-help-of-searchinghost",
   "id": 3,
-  "image": "https://contentlayer-iota.vercel.app/images/next.js-add-css-code.jpg",
+  "image": "/images/next.js-add-css-code.jpg",
   "draft": true,
-  "summary": "How to Add Search bar functionality in Ghost Cms Help of SearchinGhost",
   "tags": [
     "Ghost CMS"
-  ],
-  "images": [
-    "https://contentlayer-iota.vercel.app/images/next.js-add-css-code.jpg"
   ],
   "categories": [
     "Ghost CMS"

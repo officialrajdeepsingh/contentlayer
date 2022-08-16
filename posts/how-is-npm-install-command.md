@@ -6,16 +6,13 @@ categories:
   - npm install command
 date: 2022-03-20T13:09:24Z
 description: Npm install command help to install package from npmjs.org
-image: https://contentlayer-iota.vercel.app/images/npm-init-command-1.png
-summary: Npm install command help to install package from npmjs.org
+image: images/npm-init-command-1.png
 tags:
   - npm
   - npm-cli
   - npm install command
 title: What is the npm install command?
 draft: false
-images:
-  - https://contentlayer-iota.vercel.app/images/npm-init-command-1.png
 id: 1
 ---
 Npm, install command help to install dependencies and devDependencies base on package.json and package-lock.json file.

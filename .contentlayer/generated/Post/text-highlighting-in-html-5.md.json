@@ -5,9 +5,8 @@
   "description": "Mark tag Help to High Lighting text in HTML 5",
   "slug": "text-highlighting-in-html-5",
   "id": 14,
-  "image": "https://contentlayer-iota.vercel.app/images/Text-Highlighting-In-HTML-5.png",
+  "image": "/images/Text-Highlighting-In-HTML-5.png",
   "draft": false,
-  "summary": "Mark tag Help to High Lighting text in HTML 5 ",
   "tags": [
     "html",
     "html 5",
@@ -15,9 +14,6 @@
     "Text Highlighting",
     "text highlighting in html",
     "html for beginner"
-  ],
-  "images": [
-    "https://contentlayer-iota.vercel.app/images/Text-Highlighting-In-HTML-5.png"
   ],
   "categories": [
     "html",

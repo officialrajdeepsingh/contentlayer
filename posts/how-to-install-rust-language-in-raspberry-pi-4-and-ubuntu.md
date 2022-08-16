@@ -4,10 +4,8 @@ categories : ["Rust", "Linux", "Raspberry pi 4", "Install Rust in Linux", "Ubunt
 date : "2022-03-17T07:05:24Z"
 description : ""
 draft : false
-image : "https://contentlayer-iota.vercel.app/images/install-Rust-langauge.png"
-images : [ "https://contentlayer-iota.vercel.app/images/install-Rust-langauge.png"]
+image : "/images/install-Rust-langauge.png"
 slug : "how-to-install-rust-language-in-raspberry-pi-4-and-ubuntu"
-summary : "Install the Rust language in the Linux distros. "
 tags : ["Rust", "Linux", "Raspberry pi 4", "Install Rust in Linux", "Ubuntu"]
 title : "How to install rust language in raspberry pi 4 and ubuntu?"
 id: 9

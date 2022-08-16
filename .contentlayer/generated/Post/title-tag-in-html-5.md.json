@@ -5,9 +5,8 @@
   "description": "Title tag display page information in the browser toolbar.",
   "slug": "title-tag-in-html-5",
   "id": 15,
-  "image": "https://contentlayer-iota.vercel.app/images/Title-tag-In-HTML-5.jpg",
+  "image": "/images/Title-tag-In-HTML-5.jpg",
   "draft": false,
-  "summary": "Title tag display page information in the browser toolbar.",
   "tags": [
     "html",
     "html 5",
@@ -15,9 +14,6 @@
     "html tutorial",
     "title tag",
     "html title tag"
-  ],
-  "images": [
-    "https://contentlayer-iota.vercel.app/images/Title-tag-In-HTML-5.jpg"
   ],
   "categories": [
     "html",

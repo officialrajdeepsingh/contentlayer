@@ -5,17 +5,13 @@
   "description": "Linux Keyboard Help To Enhance Your Working Speed Inside Command Tool",
   "slug": "keyboard-shortcut-keys-for-linux-terminal",
   "id": 11,
-  "image": "https://contentlayer-iota.vercel.app/images/Linux-Basic-Introduction--1-.png",
+  "image": "/images/Linux-Basic-Introduction--1-.png",
   "draft": false,
-  "summary": "Linux Keyboard Help To Enhance Your Working Speed Inside Command Tool",
   "tags": [
     "Linux",
     "Keyboard Shortcut",
     "Shortcut keys",
     "Linux Terminal"
-  ],
-  "images": [
-    "https://contentlayer-iota.vercel.app/images/Linux-Basic-Introduction--1-.png"
   ],
   "categories": [
     "Linux",

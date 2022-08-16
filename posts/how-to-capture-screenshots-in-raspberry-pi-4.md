@@ -4,9 +4,7 @@ categories : ["Raspberry", "Raspi 4", "screensshots", "capture screen shots", "G
 date : "2021-01-24T12:26:07Z"
 description : "Raspi does not provide screenshots functionality by default. you use software and tool to take a screenshot in raspi."
 draft : false
-image : "https://contentlayer-iota.vercel.app/images/How-to-capture-screenshots-in-Raspberry-PI-4.png"
-images : ["https://contentlayer-iota.vercel.app/images/How-to-capture-screenshots-in-Raspberry-PI-4.png"]
-summary : "Raspi does not provide screenshots functionality by default. you use software and tool to take a screenshot in raspi."
+image : "/images/How-to-capture-screenshots-in-Raspberry-PI-4.png"
 tags : ["Raspberry", "Raspi 4", "screensshots", "capture screen shots", "Gnome Screenshot", "install gnome screenshot"]
 title : "How to capture screenshots in Raspberry PI 4"
 id: 4
@@ -40,12 +38,12 @@ sudo apt install gnome-screenshot
 
 Now you can find Gnome Screenshot in your accessories menu, listed as "Screenshot."
 
-![sceenshot](https://contentlayer-iota.vercel.app/images/geenome.png)
+![sceenshot](https://ephemeral-rolypoly-2f9988.netlify.app/images/geenome.png)
 
 
 Gnome interface is very easy to understand. You use Gnome to get a Screenshot, add your own image name, and after save it. By default, all pic save inside your Picture folder.
 
-![interface look like](https://contentlayer-iota.vercel.app/images/gnome-screenshots.png)
+![interface look like](https://ephemeral-rolypoly-2f9988.netlify.app/images/gnome-screenshots.png)
 
 
 ---

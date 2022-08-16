@@ -54,7 +54,7 @@ export default function Home({ posts,totalPostCount }) {
 export async function getStaticPaths(props) {
 
  //  help of pick get require filter value
-  const posts = allPosts.map((post) => pick(post, ["title", "date", "slug", "description", "summary", "draft", "image", "images", "tags", "categories"]));
+  const posts = allPosts.map((post) => pick(post, ["title", "date", "slug", "description", "draft", "image", "images", "tags", "categories"]));
 
  
   // count how many pages
@@ -87,7 +87,7 @@ export async function getStaticPaths(props) {
 export async function getStaticProps({params}) {
 
 //   help of pick get require filter value
-  const posts = allPosts.map((post) => pick(post, ["title", "date", "slug", "description", "summary", "draft", "image", "images", "tags", "categories","id"]));
+  const posts = allPosts.map((post) => pick(post, ["title", "date", "slug", "description", "draft", "image", "tags", "categories","id"]));
 
 
 

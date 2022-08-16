@@ -4,9 +4,7 @@ categories : ["html", "html 5", "html for beginner", "html tutorial", "title tag
 date : "2020-12-25T10:09:58Z"
 description : "Title tag display page information in the browser toolbar."
 draft : false
-image : "https://contentlayer-iota.vercel.app/images/Title-tag-In-HTML-5.jpg"
-images : ["https://contentlayer-iota.vercel.app/images/Title-tag-In-HTML-5.jpg"]
-summary : "Title tag display page information in the browser toolbar."
+image : "/images/Title-tag-In-HTML-5.jpg"
 tags : ["html", "html 5", "html for beginner", "html tutorial", "title tag", "html title tag"]
 title : "Title tag In HTML 5?"
 id: 15

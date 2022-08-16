@@ -9,12 +9,7 @@ const Tag = defineNestedType(() => ({
   },
 }))
 
-const Images = defineNestedType(() => ({
-  name: 'Images',
-  fields: {
-    title: { type: 'string',}
-  },
-}))
+
 
 const Categories = defineNestedType(() => ({
   name: 'Categories',
@@ -51,8 +46,7 @@ const Post = defineDocumentType(() => ({
       },
       id:{
         type: 'number',
-        required: true,
-
+        required: false,
       },
       image:{
         type: 'string',
@@ -62,16 +56,8 @@ const Post = defineDocumentType(() => ({
         type: 'string',
         required: true,
       },
-    
-      summary:{
-        type: 'string',
-        required: true,
-      },
       tags: {
         type: 'list',of: Tag,
-      },
-      images: {
-        type: 'list',of: Images,
       },
       categories:{
         type: 'list',of: Categories,
