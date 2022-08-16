@@ -1,22 +1,28 @@
 ---
-author : "Rajdeep Singh"
-categories : ["npm", "npm-cli", "npm install command"]
-date : "2022-03-20T13:09:24Z"
-description : "Npm install command help to install package from npmjs.org"
-image : "https://contentlayer-iota.vercel.app/images/npm-init-command-1.png"
-images : ["https://contentlayer-iota.vercel.app/images/npm-init-command-1.png"]
-summary : "Npm install command help to install package from npmjs.org"
-tags : ["npm", "npm-cli", "npm install command"]
-title : "What is the npm install command?"
-draft : false
+author: Rajdeep Singh
+categories:
+  - npm
+  - npm-cli
+  - npm install command
+date: 2022-03-20T13:09:24Z
+description: Npm install command help to install package from npmjs.org
+image: https://contentlayer-iota.vercel.app/images/npm-init-command-1.png
+summary: Npm install command help to install package from npmjs.org
+tags:
+  - npm
+  - npm-cli
+  - npm install command
+title: What is the npm install command?
+draft: false
+images:
+  - https://contentlayer-iota.vercel.app/images/npm-init-command-1.png
 id: 1
 ---
-
 Npm, install command help to install dependencies and devDependencies base on package.json and package-lock.json file.
 
-**The simple word npm install command help to download the package from** [**npmjs.org**](https://www.npmjs.com/)**.**
+**The simple word npm install command help to download the package from** **[npmjs.org](https://www.npmjs.com/).**
 
-```cmd
+```javascript
 npm install <Options> <flags>
 
 or
@@ -82,7 +88,7 @@ When downloading another package or starting with a new project, the npm-cli als
     npm install react@latest
 ```
 
-***
+- - -
 
 ```json
 {
@@ -129,11 +135,11 @@ You can install the package base on your git repo URL. npm install command helps
 
 ## Options or Flags
 
-1. -g option
-2. -P or --save-prod option
-3. -D or --save-dev option
+1. \-g option
+2. \-P or --save-prod option
+3. \-D or --save-dev option
 
-### -g option
+### \-g option
 
 \-g flag or option helps the install the package globally in your machine. in Syntax ways, npm installs all packages in the working node_modules folder.
 
@@ -143,7 +149,7 @@ Globally means you access package cli anywhere in laptop.
   npx -g create-react-app 
 ```
 
-### -P or --save-prod option
+### \-P or --save-prod option
 
 The -P or --save-prod option helps add your package into the production or dependencies section in the package.json file.
 
@@ -157,7 +163,7 @@ By default, the npm install command adds the package into production.
   npm install --save-prod next@latest
 ```
 
-***
+- - -
 
 ```json
 {
@@ -178,12 +184,11 @@ By default, the npm install command adds the package into production.
 }
 ```
 
-### -D or --save-dev option
+### \-D or --save-dev option
 
 The -D or --save-dev option helps add your package into the devDependencies section in the package.json file.
 
 ```cmd
-
   npm install -D eslint@latest
     
     or
@@ -192,7 +197,7 @@ The -D or --save-dev option helps add your package into the devDependencies sect
   
 ```
 
-***
+- - -
 
 ```json
 {
@@ -217,10 +222,10 @@ The -D or --save-dev option helps add your package into the devDependencies sect
 }
 ```
 
-***
+- - -
 
 ### References
 
 https://docs.npmjs.com/cli/v6/commands/npm-install
 
-***
+- - -
