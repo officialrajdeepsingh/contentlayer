@@ -17,5 +17,5 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Draft", name: "draft",  widget: "select", options: [true, false]}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Publish post", name: "draft", widget: "boolean", hint: "Publish post to set to false", required: true, default: true}
