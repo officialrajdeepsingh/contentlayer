@@ -31,8 +31,5 @@ export const show_per_page = 10
 ### Aricle list for more learning
 1. https://medium.com/nextjs/how-to-install-contentlayer-in-nextjs-4a08fb37c87d
 2. https://medium.com/nextjs/how-to-build-the-static-blog-with-content-layer-markdown-and-nextjs-29f6ac93d06
-<<<<<<< HEAD
 3. https://medium.com/nextjs/how-to-create-pagination-with-a-contentlayer-in-next-js-d2d80bb0a3d5
-=======
-3. https://medium.com/nextjs/how-to-create-pagination-with-a-contentlayer-in-next-js-d2d80bb0a3d5
->>>>>>> 7aa73ad (update docs)
+
