@@ -14,7 +14,7 @@ change your ` localhost:3000 ` url in `./config.js` url and as well `show_per_pa
 ```javascript
 // config.js
 
-const SITE_URL= 'https://ephemeral-rolypoly-2f9988.netlify.app'
+const SITE_URL= 'https://content-layer-netlifycms-vercel.vercel.app'
 
 or
 
