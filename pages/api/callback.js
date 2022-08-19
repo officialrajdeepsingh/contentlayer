@@ -1,6 +1,6 @@
 
 import { AuthorizationCode } from "simple-oauth2";
-import { config } from "../lib/config";
+import { config } from "../../lib/config";
 
 async function callback  (req, res) {
     const { host } = req.headers;

@@ -7,6 +7,9 @@ import articlePost_19Md from './article-post-19.md.json' assert { type: 'json' }
 import articlePost_20Md from './article-post-20.md.json' assert { type: 'json' }
 import articlePost_21Md from './article-post-21.md.json' assert { type: 'json' }
 import articlePost_22Md from './article-post-22.md.json' assert { type: 'json' }
+import checkImageFunctinaltyWorkingOrNotMd from './check-image-functinalty-working-or-not.md.json' assert { type: 'json' }
+import finallyWorkingFineMd from './finally-working-fine.md.json' assert { type: 'json' }
+import finalyTestingAllFunctinaltyMd from './finaly-testing-all-functinalty.md.json' assert { type: 'json' }
 import firstArticleIsHereHowAreYouMd from './first-article-is-here-how-are-you.md.json' assert { type: 'json' }
 import howIsNpmInstallCommandMd from './how-is-npm-install-command.md.json' assert { type: 'json' }
 import howToAddCssInNextJsMd from './how-to-add-css-in-next-js.md.json' assert { type: 'json' }
@@ -23,6 +26,7 @@ import newArticleMd from './new-article.md.json' assert { type: 'json' }
 import npmOutdatedCommandMd from './npm-outdated-command.md.json' assert { type: 'json' }
 import textHighlightingInHtml_5Md from './text-highlighting-in-html-5.md.json' assert { type: 'json' }
 import titleTagInHtml_5Md from './title-tag-in-html-5.md.json' assert { type: 'json' }
+import titleUsingMultipleGithubGitlabAccountViaSshMd from './title-using-multiple-github-gitlab-account-via-ssh.md.json' assert { type: 'json' }
 import whatIsNextJsMd from './what-is-next-js.md.json' assert { type: 'json' }
 
-export const allPosts = [articlePost_16Md, articlePost_17Md, articlePost_18Md, articlePost_19Md, articlePost_20Md, articlePost_21Md, articlePost_22Md, firstArticleIsHereHowAreYouMd, howIsNpmInstallCommandMd, howToAddCssInNextJsMd, howToAddSearchBarFunctionalityInGhostCmsHelpOfSearchinghostMd, howToCaptureScreenshotsInRaspberryPi_4Md, howToCheckTheSnapStorePackageAvailableForRaspberryPi_4OrNotMd, howToInstallGoLanguageInRaspberryPi_4AndUbuntuMd, howToInstallNeovimIdeInRaspberryPi_4AndUbuntuMd, howToInstallPycharmInRaspi_4Md, howToInstallRustLanguageInRaspberryPi_4AndUbuntuMd, htmlVersionHistoryMd, keyboardShortcutKeysForLinuxTerminalMd, newArticleMd, npmOutdatedCommandMd, textHighlightingInHtml_5Md, titleTagInHtml_5Md, whatIsNextJsMd]
+export const allPosts = [articlePost_16Md, articlePost_17Md, articlePost_18Md, articlePost_19Md, articlePost_20Md, articlePost_21Md, articlePost_22Md, checkImageFunctinaltyWorkingOrNotMd, finallyWorkingFineMd, finalyTestingAllFunctinaltyMd, firstArticleIsHereHowAreYouMd, howIsNpmInstallCommandMd, howToAddCssInNextJsMd, howToAddSearchBarFunctionalityInGhostCmsHelpOfSearchinghostMd, howToCaptureScreenshotsInRaspberryPi_4Md, howToCheckTheSnapStorePackageAvailableForRaspberryPi_4OrNotMd, howToInstallGoLanguageInRaspberryPi_4AndUbuntuMd, howToInstallNeovimIdeInRaspberryPi_4AndUbuntuMd, howToInstallPycharmInRaspi_4Md, howToInstallRustLanguageInRaspberryPi_4AndUbuntuMd, htmlVersionHistoryMd, keyboardShortcutKeysForLinuxTerminalMd, newArticleMd, npmOutdatedCommandMd, textHighlightingInHtml_5Md, titleTagInHtml_5Md, titleUsingMultipleGithubGitlabAccountViaSshMd, whatIsNextJsMd]
