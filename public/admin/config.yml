@@ -1,15 +1,18 @@
 backend:
-  name: git-gateway
+  name: [ github | gitlab ]
+  repo: https://github.com/officialrajdeepsingh/contentLayerNetlifycmsVercel 
+  repository branch: main 
+  base_url: https://vercel-serverless-functions-for-netlifycms.vercel.app/
   branch: main 
-media_folder: "public/images" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/images" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "public/images" 
+public_folder: "/images" 
 collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
-    folder: "posts" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{title}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
+  - name: "blog"
+    label: "Blog" 
+    folder: "posts"
+    create: true 
+    slug: "{{title}}" 
+    fields: 
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
