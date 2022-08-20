@@ -31,3 +31,50 @@ code{
   overflow-x: scroll;
   
 }
+
+.spinner-border{
+  height: 6rem;
+  width: 6rem;
+}
+.loginIndicator{
+  background-color: transparent;
+  color: white !important;
+  border: none;
+  outline: none;
+}
+.loginIndicator :hover{
+  border: none;
+  outline: none;
+}
+.send-button{
+  background: #404be6;
+  width:100%;
+  font-weight: 600;
+  color:#fff;
+  padding: 8px 25px;
+  }
+  input[type=number]::-webkit-inner-spin-button, 
+  input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none; 
+    margin: 0; 
+  }
+  
+  .header-title{
+    text-align: center;
+    margin: 6rem 1rem;
+  }
+
+  h1{
+    font-size: 31px;
+    line-height: 40px;
+    font-weight: 600;
+    color:#4c5357;
+  }
+
+
+  
+  @media screen and (max-width:480px){
+  h1{
+  font-size: 26px;
+  }
+  }

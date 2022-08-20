@@ -1,5 +1,10 @@
 import Link from 'next/link'
+import { useSession,signIn,signOut } from "next-auth/react"
+
 export default function Header() {
+
+    const { data: session, status } = useSession()
+
     return (<>
 
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -23,6 +28,13 @@ export default function Header() {
                                 <li className="nav-item">About </li>
                             </a>
                         </Link>
+
+                        <button className='btn loginIndicator' onClick={
+                           ()=> session?signOut():signIn()
+                        }> {
+                            status !=="loading"? session? "LogOut ":"SignIn": "looding..."
+                        } </button>
+
                     </ul>
                 </div>
             </div>

@@ -1,9 +1,10 @@
 Build static website with markdown, contentlayer,netlify cms and nextjs.
 In nextjs we provide sitemap, SEO, pagination and Search support and deploy with netlify cms
 
+In the New update, i fix search issue and add login functionalty in blog
 
 ## step
-1. Download code `git clone https://github.com/officialrajdeepsingh/contentLayerNetlifycmsVercel.git`
+1. Download code `git clone https://github.com/officialrajdeepsingh/contentlayer.git`
 2. Run the `npm install`
 3. To start local develpoment server run ` npm run dev`
 
@@ -32,4 +33,4 @@ export const show_per_page = 10
 1. https://medium.com/nextjs/how-to-install-contentlayer-in-nextjs-4a08fb37c87d
 2. https://medium.com/nextjs/how-to-build-the-static-blog-with-content-layer-markdown-and-nextjs-29f6ac93d06
 3. https://medium.com/nextjs/how-to-create-pagination-with-a-contentlayer-in-next-js-d2d80bb0a3d5
-
+4. https://medium.com/nextjs/how-to-set-up-netlify-cms-with-the-content-layer-and-nextjs-5da41c260933

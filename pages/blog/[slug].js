@@ -1,79 +1,98 @@
 import Link from 'next/link'
 import { slugify, ImageUrl } from '../../utils'
 import { NextSeo } from 'next-seo';
-
-
+import Login from '../../components/login';
+import { useSession, getProviders } from "next-auth/react"
 import { allPosts } from "contentlayer/generated";
 
-export default function PostPage({ post }) {
+export default function PostPage({ post, providers }) {
+
   const date = new Date(post.date)
 
+  //  get session from next-auth
+  const { data: session, status } = useSession()
 
+  //  check status is looding or not 
+  if (status === "loading") {
+    return <div className="d-flex justify-content-center">
+      <div className="spinner-border" role="status">
+        <span className="sr-only"></span>
+      </div>
+    </div>
+  } else if (!session) {
+    //  if session is not avilable the render login page
 
-  return (
-    <>
-      <NextSeo
-        title={post.title}
-        description={post.description}
-        openGraph={{
-          url: 'https:officialrajdeepsingh.dev',
-          title: post.title,
-          description: post.description,
-          type: 'article',
-          article: {
-            publishedTime: post.date,
-            authors: [
-              'https://officialrajdeepsingh.dev/pages/about',
-            ],
-            tags: post.tags,
-          },
-          images: [{
-            url: post.image,
-            width: 1224,
-            height: 724,
-            alt: post.title,
-            type: 'image/jpeg'
-          }],
-          site_name: 'Rajdeep Singh'}}
-          />
-          <div className="container my-5">
-            <div className="row">
-              <div className="col-lg-10 m-auto">
-                <div className='card card-page'>
-                  <a href={`/blog/${post.slug}`} > <img className="card-img-top" src={ImageUrl(post.image)} alt="..." /></a>
+    return <Login providers={providers} />
+  } else if (session) {
+    // main component
+    return (
+      <>
+        <NextSeo
+          title={post.title}
+          description={post.description}
+          openGraph={{
+            url: 'https:officialrajdeepsingh.dev',
+            title: post.title,
+            description: post.description,
+            type: 'article',
+            article: {
+              publishedTime: post.date,
+              authors: [
+                'https://officialrajdeepsingh.dev/pages/about',
+              ],
+              tags: post.tags,
+            },
+            images: [{
+              url: post.image,
+              width: 1224,
+              height: 724,
+              alt: post.title,
+              type: 'image/jpeg'
+            }],
+            site_name: 'Rajdeep Singh'
+          }}
+        />
+        <div className="container my-5">
+          <div className="row">
+            <div className="col-lg-10 m-auto">
+              <div className='card card-page'>
+                <a href={`/blog/${post.slug}`} > <img className="card-img-top" src={ImageUrl(post.image)} alt="..." /></a>
 
-                  <h1 className='post-title mt-2 p-2'>{post.title}</h1>
-                  <div className='post-date m-1 p-2'>
+                <h1 className='post-title mt-2 p-2'>{post.title}</h1>
+                <div className='post-date m-1 p-2'>
 
-                    <div><h6>{`${date.getMonth() + 1} - ${date.getDate()} - ${date.getFullYear()}`} </h6>  </div>
-                    <div> {
-                      post.categories.map(
-                        category => {
+                  <div><h6>{`${date.getMonth() + 1} - ${date.getDate()} - ${date.getFullYear()}`} </h6>  </div>
+                  <div> {
+                    post.categories.map(
+                      category => {
 
-                          const slug = slugify(category)
+                        const slug = slugify(category)
 
-                          return (<Link key={category} href={`/category/${slug}`}>
-                            <a className='btn'>
-                              <h6 className=' post-title'>#{category}</h6>
-                            </a>
-                          </Link>)
-                        }
-                      )
-                    } </div>
-                  </div>
-                  <div className='post-body p-5 m-auto' dangerouslySetInnerHTML={{ __html: post.body.html }}></div>
+                        return (<Link key={category} href={`/category/${slug}`}>
+                          <a className='btn'>
+                            <h6 className=' post-title'>#{category}</h6>
+                          </a>
+                        </Link>)
+                      }
+                    )
+                  } </div>
                 </div>
+                <div className='post-body p-5 m-auto' dangerouslySetInnerHTML={{ __html: post.body.html }}></div>
               </div>
             </div>
           </div>
-    </>
-  )
+        </div>
+      </>
+    )
+  }
 }
 
 
 
 
 export async function getStaticPaths() {
+
+
 
   //  filter the post and get the publish post.
   const posts = allPosts.filter(
@@ -94,6 +113,9 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params: { slug } }) {
 
+  // get provider from next-auth
+  const providers = await getProviders()
+
 
   // fetch a single post by slug
 
@@ -103,6 +125,6 @@ export async function getStaticProps({ params: { slug } }) {
 
   })
 
-  return { props: { post } }
+  return { props: { post, providers } }
 
 }

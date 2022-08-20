@@ -3,9 +3,18 @@ import Link from 'next/link'
 import { slugify } from "../utils";
 import { allPosts } from "contentlayer/generated";
 export default function Sidebar() {
+
+
   const [search, setSearch]= useState()
+
+
+  const Categories = new Set()
+
+  allPosts.map(
+    item=> item.categories.map(li=> Categories.add(li))
+  )
+
   function findSerach(value) {
-   
     setSearch(value.target.value)
   }
  
@@ -30,23 +39,17 @@ export default function Sidebar() {
           <div className="row">
             <div className="col-sm-10">
               <ul className="list-unstyled mb-0">
-               
-               {
-                  allPosts?.map(
-                    post => {
-                      return post.categories.map(
-                      item => {
-                        const slug = slugify(item)
-                       
-                        return <Link key={item} href={`/category/${slug}`}>
-                          <a> <li> {item} </li></a>
-                        </Link>
-                      }
-                    )
-                  
-                } 
+              {
+                  [...Categories].map(
+                    item => {
+                      const slug = slugify(item)
+                      return <Link key={item} href={`/category/${slug}`}>
+                        <a> <li> {item} </li></a>
+                      </Link>
+                    }
                   )
                 }
+
               </ul>
             </div>
            
