@@ -9,8 +9,12 @@ In the New update, i fix search issue and add login functionalty in blog
 3. To start local develpoment server run ` npm run dev`
 
 ## Note 
-change your ` localhost:3000 ` url in `./config.js` url and as well `show_per_page` post number on blog.
+To run project in your laptop. you need to change in two files.
+1. `config.js`
+2. `.env.local`
 
+### `config.js`
+change your ` localhost:3000 ` url in `./config.js` url and as well `show_per_page` post number on blog.
 
 ```javascript
 // config.js
@@ -26,7 +30,19 @@ const SITE_URL= 'http://localhost:3000'
 export const show_per_page = 10
 
 ```
+### `.env.local`
+The place you change in environment variable and replace with your `github client key` and `github client secret`
 
+```javascript
+GITHUB_SECRET="4d8e8331*********2fa6d60e0437f"
+GITHUB_ID="9da4153**********f6cc"
+
+NEXTAUTH_SECRET="WhS/GiDVfo+n1kL8Yv0GWkVw59hxc1oI/mSMtwwtkW4="
+
+SECRET_ID="WhS/GiDVfo+n1kL8Yv0GWkVw59hxc1oI/mSMtwwtkW4="
+
+NEXTAUTH_URL= 'http://localhost:3000/'
+```
 
 
 ### Aricle list for more learning
