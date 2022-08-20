@@ -7,7 +7,7 @@ slug : "article-post-22"
 title : "Article post 22"
 tags : ["neovim", "Linux", "linux editor"]
 categories :  ["neovim", "Linux", "linux editor"]
-image : "images/contentlayer.png"
+image : "/images/contentlayer.png"
 ---
 
 article post 22

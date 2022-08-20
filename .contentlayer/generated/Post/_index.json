@@ -197,7 +197,7 @@
     "author": "Rajdeep Singh",
     "description": "",
     "slug": "article-post-22",
-    "image": "images/contentlayer.png",
+    "image": "/images/contentlayer.png",
     "draft": false,
     "tags": [
       "neovim",
@@ -262,7 +262,7 @@
     "description": "Npm install command help to install package from npmjs.org",
     "slug": "how-is-npm-install-command",
     "id": 1,
-    "image": "images/npm-init-command-1.png",
+    "image": "/images/npm-init-command-1.png",
     "draft": false,
     "tags": [
       "npm",

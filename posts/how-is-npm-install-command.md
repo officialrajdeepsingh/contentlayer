@@ -6,7 +6,7 @@ categories:
   - npm install command
 date: 2022-03-20T13:09:24Z
 description: Npm install command help to install package from npmjs.org
-image: images/npm-init-command-1.png
+image: /images/npm-init-command-1.png
 tags:
   - npm
   - npm-cli
